@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Pagina funcionário- DD</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/dashboard/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="dashboard.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">Saturno</a>
+  <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <input class="form-control form-control-dark w-100" type="text" placeholder="Procurar" aria-label="Procurar">
+  <div class="navbar-nav">
+    <div class="nav-item text-nowrap">
+      <a class="nav-link px-3" href="#">Sair</a>
+    </div>
+  </div>
+</header>
+
+<div class="container-fluid ">
+  <div class="row">
+    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse mudar">
+      <div class="position-sticky">
+        <ul class="nav flex-column mudar">
+          <li class="nav-item">
+            <a>
+              <span ></span>
+                          <h5>Olá, Heloisa</h5>
+            </a>
+            <a class="nav-link " aria-current="page" href="#">
+              <span data-feather="home"></span>
+              Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file"></span>
+             Vencimentos próximos
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              <span data-feather="shopping-cart"></span>
+              Lista de produtos
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="users"></span>
+              Perfil
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="bar-chart-2"></span>
+              Estatísticas
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="layers"></span>
+              Cadastro de produto
+            </a>
+          </li>
+        </ul>
+          
+        </div>
+    </nav>
+
+    <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2"> Estoque </h1>
+        <div class="btn-toolbar mb-2 mb-md-0">
+          <div class="btn-group me-2">
+            <button type="button" class="btn btn-sm btn-outline-secondary">Atualizar</button>
+              </div>
+              <div class="btn-group me-2">
+                <button type="button" class="btn btn-sm btn-outline-secondary"> Filtrar</button>
+                  </div>
+          <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
+            <span data-feather="calendar"></span>
+            Semana
+          </button>
+        </div>
+      </div>
+
+        <div class="table-responsive">
+        <table class="table table-striped table-sm">
+          <thead>
+            <tr>
+              <th scope="col">Lote</th>
+              <th scope="col">Quantidade</th>
+              <th scope="col">Produto</th>
+              <th scope="col">Marca</th>
+              <th scope="col">Data de Validade</th>
+              <th scope="col">Status do produto</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>123abc</td>
+              <td>5</td>
+              <td>sabão em pó</td>
+              <td>Omo</td>
+              <td>11/10/2021</td>
+              <td> Vencido</td> 
+              </tr>
+              <tr>
+              <td>456def</td>
+              <td>10</td>
+              <td>pipoca</td>
+              <td>Yoki</td>
+              <td>08/02/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>789ghi</td>
+              <td>12</td>
+              <td>creme de leite</td>
+              <td>piracanjuba</td>
+              <td>12/12/2021</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>012jkl</td>
+              <td>30</td>
+              <td>feijão preto</td>
+              <td>Camil</td>
+              <td>20/05/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>345mno</td>
+              <td>30</td>
+              <td>arroz</td>
+              <td>Tio joão</td>
+              <td>04/01/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>678pqr</td>
+              <td>12</td>
+              <td>palha de aço</td>
+              <td>Bombril</td>
+              <td>15/06/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>901stu</td>
+              <td>100</td>
+              <td>garrafa de água</td>
+              <td>Bonafont</td>
+              <td>29/03/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>234vwx</td>
+              <td>10</td>
+              <td>macarrão</td>
+              <td>Adria</td>
+              <td>10/03/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>ABC123</td>
+              <td>20</td>
+              <td>margarina </td>
+              <td>Doril</td>
+              <td>02/02/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>EDF485</td>
+              <td>60</td>
+              <td>coco ralado</td>
+              <td>Sococo</td>
+              <td>15/04/2022</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>164Fal</td>
+              <td>13</td>
+              <td>goiabada</td>
+              <td>Pedilecta</td>
+              <td>12/12/2021</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>Khs934</td>
+              <td>8</td>
+              <td>Queijo fresco</td>
+              <td>Quatá</td>
+              <td>29/10/2021</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+              <td>KGJ67</td>
+              <td>20</td>
+              <td>Leite</td>
+              <td>Itambé</td>
+              <td>18/12/2021</td>
+              <td> Vencido</td>
+            </tr>
+            <tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+  </div>
+</div>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
+  </body>
+</html>
