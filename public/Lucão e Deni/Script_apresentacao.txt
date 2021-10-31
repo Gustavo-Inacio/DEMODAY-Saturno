@@ -1,0 +1,132 @@
+**{SCRIPT PITCH DEMODAY}**
+----------------------------------------------------------------------------------------
+1º ATO - APRESENTAÇÃO 1 MINUTO
+
+
+**[LUCAS]**
+
+> Bom dia
+> Sou o Lucas Artiz!
+> Como vocês estão? Espero que bem! *animação*
+> Caso não estejam, essa apresentação irá mudar isso.
+> Mas antes de iniciar, gostariamos de nos apresentar.
+
+**[VITOR TEODORO]**
+
+> Eu sou o Vitor Teodoro, também conhecido como Barão
+> O maluco do Trello.
+
+**[DENI]**
+
+> Eu sou o Denilton Nunes, também conhecido como Deni
+> 
+
+**[GUSTAVO INACIO]**
+
+> Eu sou o Gustavo Inácio, também conhecido como Guti
+> O cara que hackeia terminais
+
+**[GUSTAVO QUEIROZ]**
+
+> Eu sou o Gustavo Queiroz, também conhecido como Guto
+> 
+
+**[HELOISA]**
+
+> Eu sou a Heloisa, também conhecida como Helô 
+>
+
+**[JOAO HENRIQUE]**
+
+> Eu sou o João, também conhecido como Malaca 
+>
+
+**[JOAO PEDRO]**
+> Eu também sou João, mas sou o João Pedro!
+>
+
+----------------------------------------------------------------------------------------
+2º ATO - INTRODUZIR O SATURNO PODCAST - 7.5 sec 
+
+**[LUCAS]**
+> Com todos apresentados, convido vocês a nossa roda de conversa
+> O Saturno PodCast que irá abordar sobre o desperdiçio e produtos vencidos em estabelecimentos.
+----------------------------------------------------------------------------------------
+3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
+
+**[VITOR TEODORO]**
+> Bem vindooooos ao SATURNO PODCAST
+>
+> Vocês sabiam que no Brasil perdemos cerca de 19 bilhões e meio por ANO por conta de Produtos Vencidos?
+
+**[DENI]**
+
+> Sério?
+> Cheguei a dar uma olhada em algumas reportagens sobre o apreendimento de produtos estragados e empresas sendo condenadas 
+
+**[GUSTAVO INACIO]**
+
+> Simm, eu vi isso também!
+> Foi em Maceió apreenderam cerca de 800kgs né?!
+
+**[GUSTAVO QUEIROZ]**
+
+> Foi isso mesmo! 
+> Tocando no assunto de comidas estragadas, recentemente nas elimninátórias da Copa do Mundo 
+> Toda a delegação de Guiné passou mal por conta de produtos fora da validade e não conseguiram jogar.
+
+**[HELOISA]**
+
+> Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
+
+**[JOAO HENRIQUE]**
+
+> Ah mas tem!!!!! 
+
+**[HELOISA]**
+
+> Tem? Qual?
+
+**[JOAO HENRIQUE]** 
+ 
+> O Cronos.
+ 
+ **[JOAO PEDRO]**
+
+> Eu fiquei sabendo que a equipe Saturno fez uma plataforma com controle de estoque que notifica quando um produto está prestes a vencer 
+e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as vendas.
+
+**[DENI]**
+
+> Como assim?
+> Cronos não é o titã que manipula o tempo? *Tom Piada Sutil* 
+
+**[LUCAS]**
+
+> Também, o projeto foi pensado com esse nome justamente por conta dele manipular o tempo!
+
+**[DENI]**
+
+> Ah entendi, então ele manipula o tempo igual o Cronos, e como funciona na prática? 
+----------------------------------------------------------------------------------------
+4º ATO - Solução desenvolvida
+
+**[VITOR TEODORO]**
+
+> Antes de mostrar o nosso painel, convido vocês a olharem a nossa LandingPage 
+
+**[GUSTAVO INACIO]**
+
+> 
+
+
+
+
+
+
+
+
+
+
+
+
