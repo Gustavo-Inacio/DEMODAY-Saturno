@@ -1,132 +1,168 @@
-**{SCRIPT PITCH DEMODAY}**
+*{SCRIPT PITCH DEMODAY}*
 ----------------------------------------------------------------------------------------
 1º ATO - APRESENTAÇÃO 1 MINUTO
 
 
-**[LUCAS]**
+*[LUCAS]*
 
 > Bom dia
 > Sou o Lucas Artiz!
-> Como vocês estão? Espero que bem! *animação*
+> Como vocês estão? Espero que bem! animação
 > Caso não estejam, essa apresentação irá mudar isso.
 > Mas antes de iniciar, gostariamos de nos apresentar.
 
-**[VITOR TEODORO]**
+*[VITOR TEODORO]*
 
 > Eu sou o Vitor Teodoro, também conhecido como Barão
 > O maluco do Trello.
 
-**[DENI]**
+*[DENI]*
 
 > Eu sou o Denilton Nunes, também conhecido como Deni
 > 
 
-**[GUSTAVO INACIO]**
+*[GUSTAVO INACIO]*
 
 > Eu sou o Gustavo Inácio, também conhecido como Guti
 > O cara que hackeia terminais
 
-**[GUSTAVO QUEIROZ]**
+*[GUSTAVO QUEIROZ]*
 
 > Eu sou o Gustavo Queiroz, também conhecido como Guto
 > 
 
-**[HELOISA]**
+*[HELOISA]*
 
 > Eu sou a Heloisa, também conhecida como Helô 
 >
 
-**[JOAO HENRIQUE]**
+*[JOAO HENRIQUE]*
 
 > Eu sou o João, também conhecido como Malaca 
 >
 
-**[JOAO PEDRO]**
+*[JOAO PEDRO]*
 > Eu também sou João, mas sou o João Pedro!
 >
 
 ----------------------------------------------------------------------------------------
 2º ATO - INTRODUZIR O SATURNO PODCAST - 7.5 sec 
 
-**[LUCAS]**
+*[LUCAS]*
 > Com todos apresentados, convido vocês a nossa roda de conversa
 > O Saturno PodCast que irá abordar sobre o desperdiçio e produtos vencidos em estabelecimentos.
 ----------------------------------------------------------------------------------------
 3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
 
-**[VITOR TEODORO]**
+*[VITOR TEODORO]*
 > Bem vindooooos ao SATURNO PODCAST
 >
 > Vocês sabiam que no Brasil perdemos cerca de 19 bilhões e meio por ANO por conta de Produtos Vencidos?
 
-**[DENI]**
+*[DENI]*
 
 > Sério?
 > Cheguei a dar uma olhada em algumas reportagens sobre o apreendimento de produtos estragados e empresas sendo condenadas 
 
-**[GUSTAVO INACIO]**
+*[GUSTAVO INACIO]*
 
 > Simm, eu vi isso também!
 > Foi em Maceió apreenderam cerca de 800kgs né?!
 
-**[GUSTAVO QUEIROZ]**
+*[GUSTAVO QUEIROZ]*
 
 > Foi isso mesmo! 
 > Tocando no assunto de comidas estragadas, recentemente nas elimninátórias da Copa do Mundo 
 > Toda a delegação de Guiné passou mal por conta de produtos fora da validade e não conseguiram jogar.
 
-**[HELOISA]**
+*[HELOISA]*
 
 > Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
 
-**[JOAO HENRIQUE]**
+*[JOAO HENRIQUE]*
 
 > Ah mas tem!!!!! 
 
-**[HELOISA]**
+*[HELOISA]*
 
 > Tem? Qual?
 
-**[JOAO HENRIQUE]** 
+*[JOAO HENRIQUE]* 
  
 > O Cronos.
  
- **[JOAO PEDRO]**
+ *[JOAO PEDRO]*
 
 > Eu fiquei sabendo que a equipe Saturno fez uma plataforma com controle de estoque que notifica quando um produto está prestes a vencer 
 e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as vendas.
 
-**[DENI]**
+*[DENI]*
 
 > Como assim?
-> Cronos não é o titã que manipula o tempo? *Tom Piada Sutil* 
+> Cronos não é o titã que manipula o tempo? Tom Piada Sutil 
 
-**[LUCAS]**
+*[LUCAS]*
 
 > Também, o projeto foi pensado com esse nome justamente por conta dele manipular o tempo!
 
-**[DENI]**
+*[DENI]*
 
 > Ah entendi, então ele manipula o tempo igual o Cronos, e como funciona na prática? 
 ----------------------------------------------------------------------------------------
-4º ATO - Solução desenvolvida
+4º ATO -  Pré Solução desenvolvida
 
-**[VITOR TEODORO]**
+*[VITOR TEODORO]*
 
 > Antes de mostrar o nosso painel, convido vocês a olharem a nossa LandingPage 
 
-**[GUSTAVO INACIO]**
+*[GUSTAVO INACIO]*
 
+> Aqui vocês podem encontrar informações sobre o Cronos
+> Tais como as linguagens de programações que usamos ([ESCREVER COISAS QUE USAMOS])
+----------------------------------------------------------------------------------------
+5º ATO - APRESENTAÇÃO DO PAINEL 
+
+*[GUSTAVO QUEIROZ]*
+
+> Começando pela nossa tela de login, aqui é onde tudo começa, essa será a primeira tela que o usuário irá encontrar para acessar a plataforma
+
+*[HELOISA]*
+
+>  Mas, e caso o usuário ainda não tenha uma conta?
+
+*[JOAO HENRIQUE]*
+
+> Temos a nossa tela de cadastro para os usuários que fizerem seu primeiro acesso à plataforma
+
+*[JOAO PEDRO]*
+
+> Vale ressaltar que para o primeiro cadastro são requisitadas poucas informações.
+> Isso foi pensado para manter o dinamismo ao usuário 
+
+*[LUCAS]*
+
+> Por que quem nunca foi fazer o cadastro em alguma plataforma e se estressou pelo tanto de informações pedidas?
+
+----------------------------------------------------------------------------------------
+
+*[LUCAS]*
+
+> Partindo agora para o Painel
+> Aqui como vocês podem ver, é encontrado alguns botões que direcionam o usuário para funções da plataforma; os relatórios; a frente de caixa; a previsão de vendas
+
+clico no botão de frente de caixa
+ ----------------------------------------------------------------------------------------
+
+*[VITOR TEODORO]*
+
+> Essa é a frente de caixa essa será a parte que o estabelecimento irá usar para fazer as vendas
+> Quando quem está controlando o caixa, passar algum produto no scanner
+> o mesmo aparecerá aqui, junto de informações como preço e quantidade 
+
+----------------------------------------------------------------------------------------
+
+*[DENI]*
+
+> A partir do momento em que o produto é dado como vendido na frente de caixa 
+> Ele já é automaticamente removido do controle de estoque e dado como vendido 
 > 
-
-
-
-
-
-
-
-
-
-
-
-
