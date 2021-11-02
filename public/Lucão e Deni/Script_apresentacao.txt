@@ -55,8 +55,9 @@
 3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
 
 *[VITOR TEODORO]*
+
+
 > Bem vindooooos ao SATURNO PODCAST
->
 > Vocês sabiam que no Brasil perdemos cerca de 19 bilhões e meio por ANO por conta de Produtos Vencidos?
 
 *[DENI]*
@@ -119,6 +120,8 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 > Aqui vocês podem encontrar informações sobre o Cronos
 > Tais como as linguagens de programações que usamos ([ESCREVER COISAS QUE USAMOS])
+
+
 ----------------------------------------------------------------------------------------
 5º ATO - APRESENTAÇÃO DO PAINEL 
 
@@ -165,4 +168,49 @@ clico no botão de frente de caixa
 
 > A partir do momento em que o produto é dado como vendido na frente de caixa 
 > Ele já é automaticamente removido do controle de estoque e dado como vendido 
-> 
+> Aqui no estoque encontramos informações importantes do produtos
+> Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
+
+*[JOAO HENRIQUE]*
+
+> Tem alguma forma de mudar a exibição desses produtos?
+
+*[DENI]*
+
+> Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
+> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
+
+----------------------------------------------------------------------------------------
+*[GUSTAVO QUEIROZ]*
+
+> Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
+> Isso nos leva a tela de cadastros de produstos obviamente.
+> Aqui serão adicionados Nome do produto; Código de Barras; Lote
+> O preço de compra e venda também são inseridos para que esses dados sejam usados na nossa aba de relatórios
+
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
