@@ -190,16 +190,69 @@ clico no botão de frente de caixa
 
 ----------------------------------------------------------------------------------------
 
+*[ALGUEM]*
+
+> Aqui na aba de relatórios podemos organizar os lucros, as percas e filtrar por tanto de dias
+> Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
+> E quem não gosta de ganhar dinheiro, não é mesmo?
+ 
+----------------------------------------------------------------------------------------
+
+ *[ALGUEM]*
+
+> Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
+> Perca de produtos vencidos quanto pelo excesso de compras de produtos.
+> Pensando nisso aplicamos uma nova técnologia do mercado para fazer previsões
 
 
+ *[ALGUEM]*
+ 
+ > O nome dela é Machine Learning
+ > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
+ 
+ *[ALGUEM]*
+ 
+> Que tipos de dados?
+
+ *[ALGUEM]*
+
+> Esses dados podem ser imagens, tabelas, textos, tudo que a tecnologia possa identificar.
+
+----------------------------------------------------------------------------------------
+
+ *[ALGUEM]*
+ 
+> O MachineLearning
+> A vantagem do machine learning é que é possibilitar alavancação de algoritmos e modelos para prever resultados. 
+
+-----------------------------------------------------------------------------------------
+
+ *[ALGUEM]*
+
+> Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
+
+ *[ALGUEM]*
+ 
+> Isso, além disso o Cronos consegue dar previsões de vendas para impulsionar os lucros!
 
 
+-----------------------------------------------------------------------------------------
+
+ *[ALGUEM]*
+ 
+ > Com isso vamos chegando ao fim da nossa apresentação, gostariamos de fazer alguns agradecimentos
+ 
+(Agradecer as pessoas)
+
+(..)
+
+> Muito obrigado a atenção de todos espero que vocês tenham gostados, estamos sempre abertos a críticas construtivas.
+-----------------------------------------------------------------------------------------
+
+PROVAVEIS PERGUNTAS
 
 
-
-
-
-
+-- Por que 
 
 
 
