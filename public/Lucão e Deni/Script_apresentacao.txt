@@ -221,7 +221,8 @@ clico no botão de frente de caixa
 ----------------------------------------------------------------------------------------
 
  *[ALGUEM]*
- 
+ (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
+ (explicar com imagens)
 > O MachineLearning
 > A vantagem do machine learning é que é possibilitar alavancação de algoritmos e modelos para prever resultados. 
 
