@@ -15,6 +15,7 @@ body{
     height: 100%;
     background: #042331;
     transition: all .5s ease;
+    top: 0%;
 }
 .sidebar header{
     font-size: 22px;
@@ -79,10 +80,4 @@ label #cancel{
 }
 #check:checked ~ label #cancel{
  left: 195px;
-}
-section{
-    background: url(saturn.jpg) no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
 }
