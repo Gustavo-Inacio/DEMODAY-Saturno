@@ -159,6 +159,7 @@ iframe {
   color: #19aaff;
   line-height: 1.4;
   text-shadow: 1px 1px 1px #000000;
+  text-decoration: none;
 }
 
 .txt3 {
@@ -167,6 +168,7 @@ iframe {
   color: #19aaff;
   line-height: 1.4;
   text-shadow: 1px 1px 1px #000000;
+  text-decoration: none;
 }
 
 .hov1:hover {
