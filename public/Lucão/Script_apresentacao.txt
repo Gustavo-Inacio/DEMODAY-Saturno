@@ -73,11 +73,9 @@
 *[GUSTAVO QUEIROZ]*
 
 > Foi isso mesmo! 
-> Tocando no assunto de comidas estragadas, recentemente nas elimninátórias da Copa do Mundo 
-> Toda a delegação de Guiné passou mal por conta de produtos fora da validade e não conseguiram jogar.
+> Tocando no assunto de comércio, essa semana eu li que a maioria das empresas acabam por conta de falta de estudo de mercado
 
 *[HELOISA]*
-
 > Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
 
 *[JOAO HENRIQUE]*
@@ -193,7 +191,7 @@ clico no botão de frente de caixa
 
 *[ALGUEM]*
 
-> Aqui na aba de relatórios podemos organizar os lucros, as percas e filtrar por tanto de dias
+> Aqui na aba de relatórios podemos organizar os lucros, as percas e filtrar por tanto de dias *ARRUMAR ISSO*
 > Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
@@ -212,16 +210,14 @@ clico no botão de frente de caixa
  > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
  
  *[ALGUEM]*
- 
-> Que tipos de dados?
 
- *[ALGUEM]*
-
-> Esses dados podem ser imagens, tabelas, textos, tudo que a tecnologia possa identificar.
+> Como conversamos anteriormente muitas empresas vão as falencias por conta da falta de controle de estoque
 
 ----------------------------------------------------------------------------------------
 
  *[ALGUEM]*
+ 
+ > O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
  (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
  (explicar com imagens)
 > O MachineLearning
