@@ -1,0 +1,24 @@
+Carousel
+---------------------------------------------------------------------------------------------
+Cronos
+A plataforma que te aproxima do futuro.
+
+---------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------
+Qual o problema? Pra que usar nossa plataforma?
+A venda de produtos fora do prazo de validade está crescendo cada vez mais, 
+com isso os empresários perdem dinheiro e o mais importante perde, a confiança do cliente!
+---------------------------------------------------------------------------------------------
+
+Nossa solução
+O Cronos, possibilita que o estabelecimento tenha o controle de todos os produto do estoque, 
+alertando o mesmo quando algum produto está proximo do seu vencimento, além de trazer uma nova tecnologia ao mercado que faz previsões de vendas.
+---------------------------------------------------------------------------------------------
+Machine Learning
+ 
+É uma tecnologia onde os computadores tem a capacidade de aprender de acordo com as respostas esperadas por meio associações de diferentes dados, os quais podem ser imagens, números e 
+tudo que essa tecnologia possa identificar. 
+O Cronos usufrui dessa tecnologia e a vantagem de usar a mesma é a possibilidade de prever resultados, diminuindo percas de estoques e maiores lucros futuros.
+---------------------------------------------------------------------------------------------
