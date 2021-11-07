@@ -118,15 +118,13 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 *[GUSTAVO INACIO]*
 
 > Aqui vocês podem encontrar informações sobre o Cronos
-> Tais como as linguagens de programações que usamos ([ESCREVER COISAS QUE USAMOS])
-
 
 ----------------------------------------------------------------------------------------
 5º ATO - APRESENTAÇÃO DO PAINEL 
 
 *[GUSTAVO QUEIROZ]*
 
-> Começando pela nossa tela de login, aqui é onde tudo começa, essa será a primeira tela que o usuário irá encontrar para acessar a plataforma
+> Começando pela tela de login, onde o usuário irá colocar o seu e-mail e senha já cadastrados para acessar a plataforma
 
 *[HELOISA]*
 
@@ -150,12 +148,12 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 *[LUCAS]*
 
 > Partindo agora para o Painel
-> Aqui como vocês podem ver, é encontrado alguns botões que direcionam o usuário para funções da plataforma; os relatórios; a frente de caixa; a previsão de vendas
+> Aqui como vocês podem ver, é encontrado alguns botões nessa barra lateral que direcionam o usuário para funções da plataforma como os relatórios, a frente de caixa, o estoque, e a previsão de vendas
 
 clico no botão de frente de caixa
  ----------------------------------------------------------------------------------------
 
-*[VITOR TEODORO]*
+*[INACIO]*
 
 > Essa é a frente de caixa essa será a parte que o estabelecimento irá usar para fazer as vendas
 > Quando quem está controlando o caixa, passar algum produto no scanner
@@ -167,55 +165,59 @@ clico no botão de frente de caixa
 
 > A partir do momento em que o produto é dado como vendido na frente de caixa 
 > Ele já é automaticamente removido do controle de estoque e dado como vendido 
+
+
+---------------------------------------------------------------------------------------- 
+
+IR PARA O ESTOQUE 
+
 > Aqui no estoque encontramos informações importantes do produtos
 > Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
 
-*[JOAO HENRIQUE]*
 
-> Tem alguma forma de mudar a exibição desses produtos?
-
-*[DENI]*
-
-> Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
-> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
 
 ----------------------------------------------------------------------------------------
 *[GUSTAVO QUEIROZ]*
 
 > Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
 > Isso nos leva a tela de cadastros de produstos obviamente.
-> Aqui serão adicionados Nome do produto; Código de Barras; Lote
-> O preço de compra e venda também são inseridos para que esses dados sejam usados na nossa aba de relatórios
+
+IR PARA O CADASTRO DE PRODUTOS
 
 ----------------------------------------------------------------------------------------
 
-*[ALGUEM]*
+> Aqui serão adicionados Nome do produto; Código de Barras; Lote
+> O preço de compra e venda também são inseridos para que esses dados sejam usados na aba de dashboards
 
-> Aqui na aba de relatórios podemos organizar os lucros, as percas e filtrar por tanto de dias *ARRUMAR ISSO*
+----------------------------------------------------------------------------------------
+
+*[PEDRINHO]*
+
+> Aqui na aba de dashboards podemos ver os lucros que ele obteve com as vendas
 > Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
 
- *[ALGUEM]*
+ *[VITOR]*
 
 > Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
 > Perca de produtos vencidos quanto pelo excesso de compras de produtos.
-> Pensando nisso aplicamos uma nova técnologia do mercado para fazer previsões
+> Pensando nisso foi aplicado uma nova técnologia do mercado para fazer previsões
 
 
- *[ALGUEM]*
+ *[VITOR]*
  
  > O nome dela é Machine Learning
  > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
  
- *[ALGUEM]*
+ *[MALACA]* esses dialogos precisam de ajustes
 
 > Como conversamos anteriormente muitas empresas vão as falencias por conta da falta de controle de estoque
 
 ----------------------------------------------------------------------------------------
 
- *[ALGUEM]*
+ *[MALACA]*
  
  > O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
  (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
@@ -225,7 +227,7 @@ clico no botão de frente de caixa
 
 -----------------------------------------------------------------------------------------
 
- *[ALGUEM]*
+ *[HELO]*
 
 > Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
 
@@ -235,6 +237,8 @@ clico no botão de frente de caixa
 
 
 -----------------------------------------------------------------------------------------
+
+FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
  *[ALGUEM]*
  
@@ -256,7 +260,16 @@ PROVAVEIS PERGUNTAS
 
 
 
+DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 
+*[JOAO HENRIQUE]*
+
+> Tem alguma forma de mudar a exibição desses produtos?
+
+*[DENI]*
+
+> Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
+> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
 
 
 
