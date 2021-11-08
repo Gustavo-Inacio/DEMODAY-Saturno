@@ -1,4 +1,4 @@
-*{SCRIPT PITCH DEMODAY}*
+*{SCRIPT PITCH DEMODAY} *
 ----------------------------------------------------------------------------------------
 1º ATO - APRESENTAÇÃO 1 MINUTO
 
@@ -9,7 +9,7 @@
 > Sou o Lucas Artiz!
 > Como vocês estão? Espero que bem! animação
 > Caso não estejam, essa apresentação irá mudar isso.
-> Mas antes de iniciar, gostariamos de nos apresentar.
+>, Mas antes de iniciar, gostaríamos de nos apresentar.
 
 *[VITOR TEODORO]*
 
@@ -50,7 +50,7 @@
 
 *[LUCAS]*
 > Com todos apresentados, convido vocês a nossa roda de conversa
-> O Saturno PodCast que irá abordar sobre o desperdiçio e produtos vencidos em estabelecimentos.
+> O Saturno Podcast que irá abordar sobre o desperdício e produtos vencidos em estabelecimentos.
 ----------------------------------------------------------------------------------------
 3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
 
@@ -63,11 +63,11 @@
 *[DENI]*
 
 > Sério?
-> Cheguei a dar uma olhada em algumas reportagens sobre o apreendimento de produtos estragados e empresas sendo condenadas 
+> Cheguei a dar uma olhada em algumas reportagens sobre a apreensão de produtos estragados e empresas sendo condenadas 
 
 *[GUSTAVO INACIO]*
 
-> Simm, eu vi isso também!
+> Sim, eu vi isso também!
 > Foi em Maceió apreenderam cerca de 800kgs né?!
 
 *[GUSTAVO QUEIROZ]*
@@ -76,11 +76,11 @@
 > Tocando no assunto de comércio, essa semana eu li que a maioria das empresas acabam por conta de falta de estudo de mercado
 
 *[HELOISA]*
-> Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
+> Imagina se existisse uma plataforma que sanasse problemas desse tipo?
 
 *[JOAO HENRIQUE]*
 
-> Ah mas tem!!!!! 
+> Ah, mas tem!!!!! 
 
 *[HELOISA]*
 
@@ -102,7 +102,7 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 *[LUCAS]*
 
-> Também, o projeto foi pensado com esse nome justamente por conta dele manipular o tempo!
+> Também, o projeto foi pensado com esse nome justamente por conta de ele manipular o tempo!
 
 *[DENI]*
 
@@ -113,7 +113,7 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 *[VITOR TEODORO]*
 
 > Eu testei  o Cronos há algum tempo já, ele realmente faz a diferença nos comércios, 
-> Essa é a LandingPage que me fez conhecer a plataforma
+> Essa é a Landing Page que me fez conhecer a plataforma
 
 *[GUSTAVO INACIO]*
 
@@ -128,7 +128,7 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 *[HELOISA]*
 
->  Mas, e caso o usuário ainda não tenha uma conta?
+>,  Mas, e caso o usuário ainda não tenha uma conta?
 
 *[JOAO HENRIQUE]*
 
@@ -157,7 +157,7 @@ clico no botão de frente de caixa
 
 > Essa é a frente de caixa essa será a parte que o estabelecimento irá usar para fazer as vendas
 > Quando quem está controlando o caixa, passar algum produto no scanner
-> o mesmo aparecerá aqui, junto de informações como preço e quantidade 
+> ele aparecerá aqui, junto de informações como preço e quantidade 
 
 ----------------------------------------------------------------------------------------
 
@@ -171,7 +171,7 @@ clico no botão de frente de caixa
 
 IR PARA O ESTOQUE 
 
-> Aqui no estoque encontramos informações importantes do produtos
+> Aqui no estoque encontramos informações importantes dos produtos
 > Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
 
 
@@ -180,7 +180,7 @@ IR PARA O ESTOQUE
 *[GUSTAVO QUEIROZ]*
 
 > Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
-> Isso nos leva a tela de cadastros de produstos obviamente.
+> Isso nos leva a tela de cadastros de produtos obviamente.
 
 IR PARA O CADASTRO DE PRODUTOS
 
@@ -194,7 +194,7 @@ IR PARA O CADASTRO DE PRODUTOS
 *[PEDRINHO]*
 
 > Aqui na aba de dashboards podemos ver os lucros que ele obteve com as vendas
-> Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
+> Aqui nesse teste ele acabou lucrando 169 reais nos últimos 15 dias
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
@@ -203,27 +203,27 @@ IR PARA O CADASTRO DE PRODUTOS
 
 > Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
 > Perca de produtos vencidos quanto pelo excesso de compras de produtos.
-> Pensando nisso foi aplicado uma nova técnologia do mercado para fazer previsões
+> Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões
 
 
  *[VITOR]*
  
  > O nome dela é Machine Learning
- > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
+ > Essa tecnologia é onde os computadores têm a capacidade de aprender de acordo com dados antigos
  
- *[MALACA]* esses dialogos precisam de ajustes
+ *[MALACA]* esses diálogos precisam de ajustes
 
-> Como conversamos anteriormente muitas empresas vão as falencias por conta da falta de controle de estoque
+> Como conversamos anteriormente muitas empresas vão as falências por conta da falta de controle de estoque
 
 ----------------------------------------------------------------------------------------
 
  *[MALACA]*
  
- > O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
- (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
+ > O Machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
+ (área da inteligência artificial que usa algoritmo para identificar problemas futuros)
  (explicar com imagens)
-> O MachineLearning
-> A vantagem do machine learning é que é possibilitar alavancação de algoritmos e modelos para prever resultados. 
+> O Machine Learning
+> A vantagem do Machine learning é que é possibilitar alavancarão de algoritmos e modelos para prever resultados. 
 
 -----------------------------------------------------------------------------------------
 
@@ -242,7 +242,7 @@ FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
  *[ALGUEM]*
  
- > Com isso vamos chegando ao fim da nossa apresentação, gostariamos de fazer alguns agradecimentos
+ > Com isso vamos chegando ao fim da nossa apresentação, gostaríamos de fazer alguns agradecimentos
  
 (Agradecer as pessoas)
 
@@ -262,14 +262,14 @@ PROVAVEIS PERGUNTAS
 
 DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 
-*[JOAO HENRIQUE]*
+*[JOAO HENRIQUE] *
 
 > Tem alguma forma de mudar a exibição desses produtos?
 
 *[DENI]*
 
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
-> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
+> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem dele
 
 
 
