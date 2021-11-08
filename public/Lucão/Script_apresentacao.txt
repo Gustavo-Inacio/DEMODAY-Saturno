@@ -126,32 +126,7 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 > Começando pela tela de login, onde o usuário irá colocar o seu e-mail e senha já cadastrados para acessar a plataforma
 
-*[HELOISA]*
-
->,  Mas, e caso o usuário ainda não tenha uma conta?
-
-*[JOAO HENRIQUE]*
-
-> Temos a nossa tela de cadastro para os usuários que fizerem seu primeiro acesso à plataforma
-
-*[JOAO PEDRO]*
-
-> Vale ressaltar que para o primeiro cadastro são requisitadas poucas informações.
-> Isso foi pensado para manter o dinamismo ao usuário 
-
-*[LUCAS]*
-
-> Por que quem nunca foi fazer o cadastro em alguma plataforma e se estressou pelo tanto de informações pedidas?
-
 ----------------------------------------------------------------------------------------
-
-*[LUCAS]*
-
-> Partindo agora para o Painel
-> Aqui como vocês podem ver, é encontrado alguns botões nessa barra lateral que direcionam o usuário para funções da plataforma como os relatórios, a frente de caixa, o estoque, e a previsão de vendas
-
-clico no botão de frente de caixa
- ----------------------------------------------------------------------------------------
 
 *[INACIO]*
 
@@ -171,6 +146,8 @@ clico no botão de frente de caixa
 
 IR PARA O ESTOQUE 
 
+*[MALACA]*
+
 > Aqui no estoque encontramos informações importantes dos produtos
 > Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
 
@@ -185,6 +162,7 @@ IR PARA O ESTOQUE
 IR PARA O CADASTRO DE PRODUTOS
 
 ----------------------------------------------------------------------------------------
+*[HELO]*
 
 > Aqui serão adicionados Nome do produto; Código de Barras; Lote
 > O preço de compra e venda também são inseridos para que esses dados sejam usados na aba de dashboards
@@ -204,26 +182,16 @@ IR PARA O CADASTRO DE PRODUTOS
 > Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
 > Perca de produtos vencidos quanto pelo excesso de compras de produtos.
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões
-
-
- *[VITOR]*
- 
- > O nome dela é Machine Learning
- > Essa tecnologia é onde os computadores têm a capacidade de aprender de acordo com dados antigos
+> O nome dela é Machine Learning
+> Essa tecnologia é onde os computadores têm a capacidade de aprender de acordo com dados antigos
  
  *[MALACA]* esses diálogos precisam de ajustes
 
 > Como conversamos anteriormente muitas empresas vão as falências por conta da falta de controle de estoque
+> O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
+> Essa tecnologia é um ramo da inteligência artifial que indentifica padrões. Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, uma pessoa, os gostos de uma pessoa, um texto, entre muitos outros.
+O fato é que, ao indenetificar padrões, ela pode gerar previsões futuras com base neles. Por isso chama-se machine learning (aprendizado de máquinas).
 
-----------------------------------------------------------------------------------------
-
- *[MALACA]*
- 
- > O Machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
- (área da inteligência artificial que usa algoritmo para identificar problemas futuros)
- (explicar com imagens)
-> O Machine Learning
-> A vantagem do Machine learning é que é possibilitar alavancarão de algoritmos e modelos para prever resultados. 
 
 -----------------------------------------------------------------------------------------
 
@@ -231,7 +199,7 @@ IR PARA O CADASTRO DE PRODUTOS
 
 > Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
 
- *[ALGUEM]*
+ *[LUCAO]*
  
 > Isso, além disso o Cronos consegue dar previsões de vendas para impulsionar os lucros!
 
@@ -240,7 +208,7 @@ IR PARA O CADASTRO DE PRODUTOS
 
 FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
- *[ALGUEM]*
+ *[HELO]*
  
  > Com isso vamos chegando ao fim da nossa apresentação, gostaríamos de fazer alguns agradecimentos
  
@@ -270,11 +238,3 @@ DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
 > Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem dele
-
-
-
-
-
-
-
-
