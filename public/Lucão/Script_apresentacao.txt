@@ -1,0 +1,280 @@
+*{SCRIPT PITCH DEMODAY}*
+----------------------------------------------------------------------------------------
+1º ATO - APRESENTAÇÃO 1 MINUTO
+
+
+*[LUCAS]*
+
+> Bom dia
+> Sou o Lucas Artiz!
+> Como vocês estão? Espero que bem! animação
+> Caso não estejam, essa apresentação irá mudar isso.
+> Mas antes de iniciar, gostariamos de nos apresentar.
+
+*[VITOR TEODORO]*
+
+> Eu sou o Vitor Teodoro, também conhecido como Barão
+> O maluco do Trello.
+
+*[DENI]*
+
+> Eu sou o Denilton Nunes, também conhecido como Deni
+> 
+
+*[GUSTAVO INACIO]*
+
+> Eu sou o Gustavo Inácio, também conhecido como Guti
+> O cara que hackeia terminais
+
+*[GUSTAVO QUEIROZ]*
+
+> Eu sou o Gustavo Queiroz, também conhecido como Guto
+> 
+
+*[HELOISA]*
+
+> Eu sou a Heloisa, também conhecida como Helô 
+>
+
+*[JOAO HENRIQUE]*
+
+> Eu sou o João, também conhecido como Malaca 
+>
+
+*[JOAO PEDRO]*
+> Eu também sou João, mas sou o João Pedro!
+>
+
+----------------------------------------------------------------------------------------
+2º ATO - INTRODUZIR O SATURNO PODCAST - 7.5 sec 
+
+*[LUCAS]*
+> Com todos apresentados, convido vocês a nossa roda de conversa
+> O Saturno PodCast que irá abordar sobre o desperdiçio e produtos vencidos em estabelecimentos.
+----------------------------------------------------------------------------------------
+3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
+
+*[VITOR TEODORO]*
+
+
+> Bem vindooooos ao SATURNO PODCAST
+> Vocês sabiam que no Brasil perdemos cerca de 19 bilhões e meio por ANO por conta de Produtos Vencidos?
+
+*[DENI]*
+
+> Sério?
+> Cheguei a dar uma olhada em algumas reportagens sobre o apreendimento de produtos estragados e empresas sendo condenadas 
+
+*[GUSTAVO INACIO]*
+
+> Simm, eu vi isso também!
+> Foi em Maceió apreenderam cerca de 800kgs né?!
+
+*[GUSTAVO QUEIROZ]*
+
+> Foi isso mesmo! 
+> Tocando no assunto de comércio, essa semana eu li que a maioria das empresas acabam por conta de falta de estudo de mercado
+
+*[HELOISA]*
+> Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
+
+*[JOAO HENRIQUE]*
+
+> Ah mas tem!!!!! 
+
+*[HELOISA]*
+
+> Tem? Qual?
+
+*[JOAO HENRIQUE]* 
+ 
+> O Cronos.
+ 
+ *[JOAO PEDRO]*
+
+> Eu fiquei sabendo que a equipe Saturno fez uma plataforma com controle de estoque que notifica quando um produto está prestes a vencer 
+e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as vendas.
+
+*[DENI]*
+
+> Como assim?
+> Cronos não é o titã que manipula o tempo? Tom Piada Sutil 
+
+*[LUCAS]*
+
+> Também, o projeto foi pensado com esse nome justamente por conta dele manipular o tempo!
+
+*[DENI]*
+
+> Ah entendi, então ele manipula o tempo igual o Cronos, e como funciona na prática? 
+----------------------------------------------------------------------------------------
+4º ATO -  Pré Solução desenvolvida
+
+*[VITOR TEODORO]*
+
+> Eu testei  o Cronos há algum tempo já, ele realmente faz a diferença nos comércios, 
+> Essa é a LandingPage que me fez conhecer a plataforma
+
+*[GUSTAVO INACIO]*
+
+> Aqui vocês podem encontrar informações sobre o Cronos
+
+----------------------------------------------------------------------------------------
+5º ATO - APRESENTAÇÃO DO PAINEL 
+
+*[GUSTAVO QUEIROZ]*
+
+> Começando pela tela de login, onde o usuário irá colocar o seu e-mail e senha já cadastrados para acessar a plataforma
+
+*[HELOISA]*
+
+>  Mas, e caso o usuário ainda não tenha uma conta?
+
+*[JOAO HENRIQUE]*
+
+> Temos a nossa tela de cadastro para os usuários que fizerem seu primeiro acesso à plataforma
+
+*[JOAO PEDRO]*
+
+> Vale ressaltar que para o primeiro cadastro são requisitadas poucas informações.
+> Isso foi pensado para manter o dinamismo ao usuário 
+
+*[LUCAS]*
+
+> Por que quem nunca foi fazer o cadastro em alguma plataforma e se estressou pelo tanto de informações pedidas?
+
+----------------------------------------------------------------------------------------
+
+*[LUCAS]*
+
+> Partindo agora para o Painel
+> Aqui como vocês podem ver, é encontrado alguns botões nessa barra lateral que direcionam o usuário para funções da plataforma como os relatórios, a frente de caixa, o estoque, e a previsão de vendas
+
+clico no botão de frente de caixa
+ ----------------------------------------------------------------------------------------
+
+*[INACIO]*
+
+> Essa é a frente de caixa essa será a parte que o estabelecimento irá usar para fazer as vendas
+> Quando quem está controlando o caixa, passar algum produto no scanner
+> o mesmo aparecerá aqui, junto de informações como preço e quantidade 
+
+----------------------------------------------------------------------------------------
+
+*[DENI]*
+
+> A partir do momento em que o produto é dado como vendido na frente de caixa 
+> Ele já é automaticamente removido do controle de estoque e dado como vendido 
+
+
+---------------------------------------------------------------------------------------- 
+
+IR PARA O ESTOQUE 
+
+> Aqui no estoque encontramos informações importantes do produtos
+> Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
+
+
+
+----------------------------------------------------------------------------------------
+*[GUSTAVO QUEIROZ]*
+
+> Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
+> Isso nos leva a tela de cadastros de produstos obviamente.
+
+IR PARA O CADASTRO DE PRODUTOS
+
+----------------------------------------------------------------------------------------
+
+> Aqui serão adicionados Nome do produto; Código de Barras; Lote
+> O preço de compra e venda também são inseridos para que esses dados sejam usados na aba de dashboards
+
+----------------------------------------------------------------------------------------
+
+*[PEDRINHO]*
+
+> Aqui na aba de dashboards podemos ver os lucros que ele obteve com as vendas
+> Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
+> E quem não gosta de ganhar dinheiro, não é mesmo?
+ 
+----------------------------------------------------------------------------------------
+
+ *[VITOR]*
+
+> Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
+> Perca de produtos vencidos quanto pelo excesso de compras de produtos.
+> Pensando nisso foi aplicado uma nova técnologia do mercado para fazer previsões
+
+
+ *[VITOR]*
+ 
+ > O nome dela é Machine Learning
+ > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
+ 
+ *[MALACA]* esses dialogos precisam de ajustes
+
+> Como conversamos anteriormente muitas empresas vão as falencias por conta da falta de controle de estoque
+
+----------------------------------------------------------------------------------------
+
+ *[MALACA]*
+ 
+ > O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
+ (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
+ (explicar com imagens)
+> O MachineLearning
+> A vantagem do machine learning é que é possibilitar alavancação de algoritmos e modelos para prever resultados. 
+
+-----------------------------------------------------------------------------------------
+
+ *[HELO]*
+
+> Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
+
+ *[ALGUEM]*
+ 
+> Isso, além disso o Cronos consegue dar previsões de vendas para impulsionar os lucros!
+
+
+-----------------------------------------------------------------------------------------
+
+FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
+
+ *[ALGUEM]*
+ 
+ > Com isso vamos chegando ao fim da nossa apresentação, gostariamos de fazer alguns agradecimentos
+ 
+(Agradecer as pessoas)
+
+(..)
+
+> Muito obrigado a atenção de todos espero que vocês tenham gostados, estamos sempre abertos a críticas construtivas.
+-----------------------------------------------------------------------------------------
+
+PROVAVEIS PERGUNTAS
+
+
+-- Por que 
+
+
+
+
+
+DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
+
+*[JOAO HENRIQUE]*
+
+> Tem alguma forma de mudar a exibição desses produtos?
+
+*[DENI]*
+
+> Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
+> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
+
+
+
+
+
+
+
+
