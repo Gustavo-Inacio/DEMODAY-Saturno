@@ -19,7 +19,7 @@
 *[DENI]*
 
 > Eu sou o Denilton Nunes, também conhecido como Deni
-> 
+> O Lunático
 
 *[GUSTAVO INACIO]*
 
@@ -63,7 +63,7 @@
 *[DENI]*
 
 > Sério?
-> Cheguei a dar uma olhada em algumas reportagens sobre a apreensão de produtos estragados e empresas sendo condenadas 
+> Cheguei a ver algumas reportagens sobre a apreensão de produtos estragados, mas eu achei que só tinha com uma pequena quantidade de comida. Teve alguma grande?
 
 *[GUSTAVO INACIO]*
 
@@ -97,8 +97,8 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 *[DENI]*
 
-> Como assim?
-> Cronos não é o titã que manipula o tempo? Tom Piada Sutil 
+> Pera, Como assim?
+> Cronos não era o titã que brinca com o tempo? 
 
 *[LUCAS]*
 
@@ -106,7 +106,7 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 *[DENI]*
 
-> Ah entendi, então ele manipula o tempo igual o Cronos, e como funciona na prática? 
+> Até que faz sentido, mas como ele faz na prática? 
 ----------------------------------------------------------------------------------------
 4º ATO -  Pré Solução desenvolvida
 
@@ -156,7 +156,7 @@ IR PARA O ESTOQUE
 ----------------------------------------------------------------------------------------
 *[GUSTAVO QUEIROZ]*
 
-> Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
+> Mas para que esses produtos estarem ali, eles precisam ser cadastrados 
 > Isso nos leva a tela de cadastros de produtos obviamente.
 
 IR PARA O CADASTRO DE PRODUTOS
@@ -172,7 +172,7 @@ IR PARA O CADASTRO DE PRODUTOS
 *[PEDRINHO]*
 
 > Aqui na aba de dashboards podemos ver os lucros que ele obteve com as vendas
-> Aqui nesse teste ele acabou lucrando 169 reais nos últimos 15 dias
+> Aqui nesse teste ele acabou lucrando 300 reais na última semana.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
@@ -188,13 +188,28 @@ IR PARA O CADASTRO DE PRODUTOS
  *[MALACA]* esses diálogos precisam de ajustes
 
 > Como conversamos anteriormente muitas empresas vão as falências por conta da falta de controle de estoque
-> O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
-> Essa tecnologia é um ramo da inteligência artifial que indentifica padrões. Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, uma pessoa, os gostos de uma pessoa, um texto, entre muitos outros.
-O fato é que, ao indenetificar padrões, ela pode gerar previsões futuras com base neles. Por isso chama-se machine learning (aprendizado de máquinas).
+> O Machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
+> Essa tecnologia é um ramo da inteligência artificial que identifica padrões. Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, uma pessoa, os gostos de uma pessoa, um texto, entre muitos outros.
+O fato é que, ao identificar padrões, ela pode gerar previsões futuras com base neles. Por isso chama-se Machine learning (aprendizado de máquinas).
 
 
 -----------------------------------------------------------------------------------------
+ *[DENI]*
 
+> Nossa, muito interessante isso!
+> Mas me tira uma dúvida como foi feito isso?
+
+ *[GUTO]*
+> Usaram o HTML E CSS E JS USARAM PRO FRONT sendo o núcleo do front
+> O MySQL para ter um servidor com relacionamentos, 
+> O Machine Learning foi a parte fundamental do Cronos
+> API 
+
+ *[PEDRINHO]*
+> O Chart.js foi responsável pelos gráficos
+> O Bootstrap pela responsividade 
+> E o PHP foi usado no back-end para fazer todas as peças funcionarem
+--------------------------------------------------------------------------------------- 
  *[HELO]*
 
 > Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
@@ -237,4 +252,4 @@ DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 *[DENI]*
 
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
-> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem dele
+> Onde você consegue ter uma visão geral dos produtos juntamente de 
