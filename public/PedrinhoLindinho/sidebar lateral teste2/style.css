@@ -5,7 +5,16 @@ body{
     min-height: 100vh;
     width: 100%;
     overflow: hidden;
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf'); 
 }
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  }
+
+  
 *{
     margin: 0;
     padding: 0;
@@ -19,7 +28,7 @@ body{
     left: 0;
     height: 100%;
     width: 41px;
-    background: #11101d;
+    background-image:linear-gradient(360deg, #284066, #4a195a) ;
     padding: 6px 14px;
     transition: all 0.5s ease;
 }
@@ -185,6 +194,7 @@ body{
      bottom: 0;
      left: 0; 
      width: 100%;
+     
 }
 .sidebar .profile_content .profile {
     position: relative;
@@ -195,7 +205,6 @@ body{
 }
 .sidebar.active .profile_content .profile{
     
-    background: #1d1b31;
 }
 .profile_content .profile .profile_details{
     display: flex;
