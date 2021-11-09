@@ -1,4 +1,4 @@
-*{SCRIPT PITCH DEMODAY}*
+*{SCRIPT PITCH DEMODAY} *
 ----------------------------------------------------------------------------------------
 1º ATO - APRESENTAÇÃO 1 MINUTO
 
@@ -9,7 +9,7 @@
 > Sou o Lucas Artiz!
 > Como vocês estão? Espero que bem! animação
 > Caso não estejam, essa apresentação irá mudar isso.
-> Mas antes de iniciar, gostariamos de nos apresentar.
+>, Mas antes de iniciar, gostaríamos de nos apresentar.
 
 *[VITOR TEODORO]*
 
@@ -19,7 +19,7 @@
 *[DENI]*
 
 > Eu sou o Denilton Nunes, também conhecido como Deni
-> 
+> O Lunático
 
 *[GUSTAVO INACIO]*
 
@@ -50,7 +50,7 @@
 
 *[LUCAS]*
 > Com todos apresentados, convido vocês a nossa roda de conversa
-> O Saturno PodCast que irá abordar sobre o desperdiçio e produtos vencidos em estabelecimentos.
+> O Saturno Podcast que irá abordar sobre o desperdício e produtos vencidos em estabelecimentos.
 ----------------------------------------------------------------------------------------
 3º ATO - CONTEXTO DO PROJETO (tema/problema escolhido e sua causa real.) - 1 MINUTO
 
@@ -63,11 +63,11 @@
 *[DENI]*
 
 > Sério?
-> Cheguei a dar uma olhada em algumas reportagens sobre o apreendimento de produtos estragados e empresas sendo condenadas 
+> Cheguei a ver algumas reportagens sobre a apreensão de produtos estragados, mas eu achei que só tinha com uma pequena quantidade de comida. Teve alguma grande?
 
 *[GUSTAVO INACIO]*
 
-> Simm, eu vi isso também!
+> Sim, eu vi isso também!
 > Foi em Maceió apreenderam cerca de 800kgs né?!
 
 *[GUSTAVO QUEIROZ]*
@@ -76,11 +76,11 @@
 > Tocando no assunto de comércio, essa semana eu li que a maioria das empresas acabam por conta de falta de estudo de mercado
 
 *[HELOISA]*
-> Imagina se existisse uma plataforma que sanasse problemas deesse tipo?
+> Imagina se existisse uma plataforma que sanasse problemas desse tipo?
 
 *[JOAO HENRIQUE]*
 
-> Ah mas tem!!!!! 
+> Ah, mas tem!!!!! 
 
 *[HELOISA]*
 
@@ -97,23 +97,23 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 *[DENI]*
 
-> Como assim?
-> Cronos não é o titã que manipula o tempo? Tom Piada Sutil 
+> Pera, Como assim?
+> Cronos não era o titã que brinca com o tempo? 
 
 *[LUCAS]*
 
-> Também, o projeto foi pensado com esse nome justamente por conta dele manipular o tempo!
+> Também, o projeto foi pensado com esse nome justamente por conta de ele manipular o tempo!
 
 *[DENI]*
 
-> Ah entendi, então ele manipula o tempo igual o Cronos, e como funciona na prática? 
+> Até que faz sentido, mas como ele faz na prática? 
 ----------------------------------------------------------------------------------------
 4º ATO -  Pré Solução desenvolvida
 
 *[VITOR TEODORO]*
 
 > Eu testei  o Cronos há algum tempo já, ele realmente faz a diferença nos comércios, 
-> Essa é a LandingPage que me fez conhecer a plataforma
+> Essa é a Landing Page que me fez conhecer a plataforma
 
 *[GUSTAVO INACIO]*
 
@@ -126,38 +126,13 @@ e  ainda faz uma previsão de vendas de acordo com dados armazenados durante as 
 
 > Começando pela tela de login, onde o usuário irá colocar o seu e-mail e senha já cadastrados para acessar a plataforma
 
-*[HELOISA]*
-
->  Mas, e caso o usuário ainda não tenha uma conta?
-
-*[JOAO HENRIQUE]*
-
-> Temos a nossa tela de cadastro para os usuários que fizerem seu primeiro acesso à plataforma
-
-*[JOAO PEDRO]*
-
-> Vale ressaltar que para o primeiro cadastro são requisitadas poucas informações.
-> Isso foi pensado para manter o dinamismo ao usuário 
-
-*[LUCAS]*
-
-> Por que quem nunca foi fazer o cadastro em alguma plataforma e se estressou pelo tanto de informações pedidas?
-
 ----------------------------------------------------------------------------------------
-
-*[LUCAS]*
-
-> Partindo agora para o Painel
-> Aqui como vocês podem ver, é encontrado alguns botões nessa barra lateral que direcionam o usuário para funções da plataforma como os relatórios, a frente de caixa, o estoque, e a previsão de vendas
-
-clico no botão de frente de caixa
- ----------------------------------------------------------------------------------------
 
 *[INACIO]*
 
 > Essa é a frente de caixa essa será a parte que o estabelecimento irá usar para fazer as vendas
 > Quando quem está controlando o caixa, passar algum produto no scanner
-> o mesmo aparecerá aqui, junto de informações como preço e quantidade 
+> ele aparecerá aqui, junto de informações como preço e quantidade 
 
 ----------------------------------------------------------------------------------------
 
@@ -171,7 +146,9 @@ clico no botão de frente de caixa
 
 IR PARA O ESTOQUE 
 
-> Aqui no estoque encontramos informações importantes do produtos
+*[MALACA]*
+
+> Aqui no estoque encontramos informações importantes dos produtos
 > Como a quantidade que ainda está no estoque, qual a data de vencimento e ainda o Lote do mesmo
 
 
@@ -179,12 +156,13 @@ IR PARA O ESTOQUE
 ----------------------------------------------------------------------------------------
 *[GUSTAVO QUEIROZ]*
 
-> Mas para que esses produtos estejam ali, eles precisam ser cadastrados 
-> Isso nos leva a tela de cadastros de produstos obviamente.
+> Mas para que esses produtos estarem ali, eles precisam ser cadastrados 
+> Isso nos leva a tela de cadastros de produtos obviamente.
 
 IR PARA O CADASTRO DE PRODUTOS
 
 ----------------------------------------------------------------------------------------
+*[HELO]*
 
 > Aqui serão adicionados Nome do produto; Código de Barras; Lote
 > O preço de compra e venda também são inseridos para que esses dados sejam usados na aba de dashboards
@@ -194,7 +172,7 @@ IR PARA O CADASTRO DE PRODUTOS
 *[PEDRINHO]*
 
 > Aqui na aba de dashboards podemos ver os lucros que ele obteve com as vendas
-> Aqui nesse teste ele acabou lucrando 169 reais nos ultimos 15 dias
+> Aqui nesse teste ele acabou lucrando 300 reais na última semana.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
@@ -203,35 +181,40 @@ IR PARA O CADASTRO DE PRODUTOS
 
 > Como citado anteriormente, muitos estabelecimentos acabam perdendo muito dinheiro seja pela
 > Perca de produtos vencidos quanto pelo excesso de compras de produtos.
-> Pensando nisso foi aplicado uma nova técnologia do mercado para fazer previsões
-
-
- *[VITOR]*
+> Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões
+> O nome dela é Machine Learning
+> Essa tecnologia é onde os computadores têm a capacidade de aprender de acordo com dados antigos
  
- > O nome dela é Machine Learning
- > Essa tecnologia é onde os computadores tem a capacidade de aprender de acordo com dados antigos
- 
- *[MALACA]* esses dialogos precisam de ajustes
+ *[MALACA]* esses diálogos precisam de ajustes
 
-> Como conversamos anteriormente muitas empresas vão as falencias por conta da falta de controle de estoque
+> Como conversamos anteriormente muitas empresas vão as falências por conta da falta de controle de estoque
+> O Machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
+> Essa tecnologia é um ramo da inteligência artificial que identifica padrões. Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, uma pessoa, os gostos de uma pessoa, um texto, entre muitos outros.
+O fato é que, ao identificar padrões, ela pode gerar previsões futuras com base neles. Por isso chama-se Machine learning (aprendizado de máquinas).
 
-----------------------------------------------------------------------------------------
-
- *[MALACA]*
- 
- > O machine learning acaba com isso, pelo fato de trazer a previsão de vendas futuras
- (area da inteligencia artificial que usa algoritimo pra identificar problemas futuros)
- (explicar com imagens)
-> O MachineLearning
-> A vantagem do machine learning é que é possibilitar alavancação de algoritmos e modelos para prever resultados. 
 
 -----------------------------------------------------------------------------------------
+ *[DENI]*
 
+> Nossa, muito interessante isso!
+> Mas me tira uma dúvida como foi feito isso?
+
+ *[GUTO]*
+> Usaram o HTML E CSS E JS USARAM PRO FRONT sendo o núcleo do front
+> O MySQL para ter um servidor com relacionamentos, 
+> O Machine Learning foi a parte fundamental do Cronos
+> API 
+
+ *[PEDRINHO]*
+> O Chart.js foi responsável pelos gráficos
+> O Bootstrap pela responsividade 
+> E o PHP foi usado no back-end para fazer todas as peças funcionarem
+--------------------------------------------------------------------------------------- 
  *[HELO]*
 
 > Bem, então quer dizer que nenhum estabelecimento irá sofrer agora com produtos vencidos?
 
- *[ALGUEM]*
+ *[LUCAO]*
  
 > Isso, além disso o Cronos consegue dar previsões de vendas para impulsionar os lucros!
 
@@ -240,9 +223,9 @@ IR PARA O CADASTRO DE PRODUTOS
 
 FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
- *[ALGUEM]*
+ *[HELO]*
  
- > Com isso vamos chegando ao fim da nossa apresentação, gostariamos de fazer alguns agradecimentos
+ > Com isso vamos chegando ao fim da nossa apresentação, gostaríamos de fazer alguns agradecimentos
  
 (Agradecer as pessoas)
 
@@ -262,19 +245,11 @@ PROVAVEIS PERGUNTAS
 
 DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 
-*[JOAO HENRIQUE]*
+*[JOAO HENRIQUE] *
 
 > Tem alguma forma de mudar a exibição desses produtos?
 
 *[DENI]*
 
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
-> Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem do mesmo.
-
-
-
-
-
-
-
-
+> Onde você consegue ter uma visão geral dos produtos juntamente de 
