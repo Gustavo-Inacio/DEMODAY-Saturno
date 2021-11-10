@@ -7,7 +7,6 @@ body{
     overflow: hidden;
     font-family: Poppins-Medium;
     src: url('../fonts/poppins/Poppins-Medium.ttf'); 
-    background: #11101d;
 }
 
 @font-face {
