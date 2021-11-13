@@ -1,0 +1,33 @@
+input {
+    margin-bottom: 35px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0 !important;
+}
+
+body {
+  background-color: #212529 !important;
+  color: white !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.btn {
+  background: none !important;
+  border: 2px solid #4723D9 !important;
+  padding: 10px 20px !important;
+  font-size: 20px !important;
+}
+
+.ficanocentroai {
+  text-align: center !important;
+}
+
+.amanodesceai {
+  margin-top: 35px;
+}
