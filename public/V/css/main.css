@@ -292,6 +292,7 @@ iframe {
   padding: 0 2px;
   font-size:medium;
   
+  
 }
 
 .focus-input100 {
@@ -302,6 +303,7 @@ iframe {
   top: 0;
   left: 0;
   pointer-events: none;
+  
 }
 
 .focus-input100::before {
@@ -312,6 +314,7 @@ iframe {
   left: 0;
   width: 0;
   height: 2px;
+  
 
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
