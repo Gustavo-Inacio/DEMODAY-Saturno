@@ -3,7 +3,7 @@
 :root {
     --header-height: 3rem;
     --nav-width: 68px;
-    --first-color:  #4a195a;
+    --first-color: rgb(135, 11, 250) ;
     --first-color-light: white ;
     --minhavariavelindinha:linear-gradient(360deg, #284066, #4a195a);
     --white-color: #F7F6FB;
@@ -50,6 +50,7 @@ a {
     color: var(--first-color);
     font-size: 1.5rem;
     cursor: pointer
+    
 }
 
 .header_img {
