@@ -122,13 +122,9 @@ body {
 
 .btn-sm{
 color:#fff;
-background-image: linear-gradient(#AFA5D9,#4723d9);
+background-color:#64227a;
 border: #64227a;
 }
 a{
   text-decoration: none !important;
-}
-
-.td{
-  color: yellow;
 }

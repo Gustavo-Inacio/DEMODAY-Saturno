@@ -9,12 +9,12 @@
     <title>Pagina Estoque</title>
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/dashboard/">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> 
     <link rel="stylesheet" href="../style.css">
-    <link rel="icon" type="image/png" href="Side Bar/Logo final transparente 60 x 60 px.png"/>
-  <link rel="stylesheet" href="Side Bar/Sidebar.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
-  
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="icon" type="image/png" href="Logo final transparente 60 x 60 px.png "/>
+  <link rel="stylesheet" href="Sidebar.css">
 
     
 
@@ -39,6 +39,10 @@
       .h2{
         color: #fff;
       }
+
+      .amanodesceai {
+        margin-top: 35px;
+      }
     </style>
 
     
@@ -46,19 +50,21 @@
     <link href="dashboard.css" rel="stylesheet">
   </head>
   <body id="body-pd">
-  
-    <header class="header" id="header">
-      <div class="header_toggle"> <i class='bx bx-menu' id="header-toggle"></i> </div>
-      <div class="header_img"> <img src="Side Bar/avatar-s-1.jpg" alt=""> </div>
-  </header> 
-  <div class="l-navbar" id="nav-bar">
-      <nav class="nav">
-          <div> <a href="#" class="nav_logo"> <i><img src="Side Bar/Logo final transparente 60 x 60 px.png" width="29px" alt=""></i><span class="nav_logo-name">CRONOS</span>
-          </a>
-              <div class="nav_list"> <a href="#" class="nav_link active"> <i class="bi bi-wallet2"></i> <span class="nav_name">Caixa</span> </a>  </a> <a href="#" class="nav_link"> <i class="bi bi-archive"></i> <span class="nav_name">Estoque</span> </a> <a href="#" class="nav_link"> <i class="bi bi-qr-code"></i> <span class="nav_name">Cadastro</span> </a> <a href="#" class="nav_link"> <i class="bi bi-calendar-check"></i> <span class="nav_name">Relatório</span> </a> <a href="#" class="nav_link"> <i class='bx bx-bar-chart-alt-2 nav_icon'></i> <span class="nav_name">Dashboard</span> </a> </div>
-          </div> <a href="#" class="nav_link"> <i class='bx bx-log-out nav_icon'></i> <span class="nav_name">SignOut</span> </a>
-      </nav>
-  </div>
+    
+
+<header class="header" id="header">
+  <div class="header_toggle"> <i class='bx bx-menu' id="header-toggle"></i> </div>
+  <div class="header_img"> <img src="avatar-s-1.jpg" alt=""> </div>
+</header> 
+<div class="l-navbar" id="nav-bar">
+  <nav class="nav">
+    <div> <a href="#" class="nav_logo"> <i><img src="Icone da sidebar.png " width="29px" alt=""></i><span class="nav_logo-name">CRONOS</span>
+    </a>
+    <div class="nav_list"> <a href="#" class="nav_link active"> <i class="bi bi-wallet2"></i> <span class="nav_name">Caixa</span> </a>  </a> <a href="#" class="nav_link"> <i class="bi bi-archive"></i> <span class="nav_name">Estoque</span> </a> <a href="#" class="nav_link"> <i class="bi bi-qr-code"></i> <span class="nav_name">Cadastro</span> </a> <a href="#" class="nav_link"> <i class="bi bi-calendar-check"></i> <span class="nav_name">Relatório</span> </a> <a href="#" class="nav_link"> <i class='bx bx-bar-chart-alt-2 nav_icon'></i> <span class="nav_name">Dashboard</span> </a> </div>
+    </div> <a href="#" class="nav_link"> <i class='bx bx-log-out nav_icon'></i> <span class="nav_name">SignOut</span> </a>
+  </nav>
+</div>
+
 
 
     
@@ -113,8 +119,8 @@
         </div>
     </nav> -->
 
-    <main class="col-md-9 ms-sm-auto col-lg-12 px-md-4">
-      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+    <main class="col-md-9 ms-sm-auto col-lg-12 px-md-5">
+      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom amanodesceai">
         <h1 class="h2"> Estoque </h1>
         <div class="btn-toolbar mb-2 mb-md-0">
           <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
@@ -127,7 +133,7 @@
             <span data-feather="calendar"></span>
             Semana
           </button>
-          <form class="col-md-5 col-md-5 mb-2 mb-lg-0 me-lg-4">
+          <form class="col-md-9 col-lg-auto mb-2 mb-lg-0 me-lg-4">
             <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
           </form>
         </div>
@@ -159,14 +165,14 @@
               <td>pipoca</td>
               <td>Yoki</td>
               <td>08/02/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>789ghi</td>
               <td>12</td>
               <td>creme de leite</td>
               <td>piracanjuba</td>
-              <td>12/11/2021</td>
+              <td>12/12/2021</td>
               <td> Vencido</td>
             </tr>
             <tr>
@@ -175,7 +181,7 @@
               <td>feijão preto</td>
               <td>Camil</td>
               <td>20/05/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>345mno</td>
@@ -183,7 +189,7 @@
               <td>arroz</td>
               <td>Tio joão</td>
               <td>04/01/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>678pqr</td>
@@ -191,7 +197,7 @@
               <td>palha de aço</td>
               <td>Bombril</td>
               <td>15/06/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>901stu</td>
@@ -199,7 +205,7 @@
               <td>garrafa de água</td>
               <td>Bonafont</td>
               <td>29/03/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>234vwx</td>
@@ -207,7 +213,7 @@
               <td>macarrão</td>
               <td>Adria</td>
               <td>10/03/2022</td>
-              <td> Na Validade </td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>ABC123</td>
@@ -215,7 +221,7 @@
               <td>margarina </td>
               <td>Doril</td>
               <td>02/02/2022</td>
-              <td>Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>EDF485</td>
@@ -223,15 +229,15 @@
               <td>coco ralado</td>
               <td>Sococo</td>
               <td>15/04/2022</td>
-              <td> Na Validade</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>164Fal</td>
               <td>13</td>
               <td>goiabada</td>
               <td>Pedilecta</td>
-              <td>25/12/2021</td>
-              <td> Á vencer  </td>
+              <td>12/12/2021</td>
+              <td> Vencido</td>
             </tr>
             <tr>
               <td>Khs934</td>
@@ -247,7 +253,7 @@
               <td>Leite</td>
               <td>Itambé</td>
               <td>18/12/2021</td>
-              <td> Á vencer </td>
+              <td> Vencido</td>
             </tr>
             <tr>
           </tbody>
@@ -257,7 +263,7 @@
   </div>
 </div>
 
-    <script type="text/javascript" src="Side Bar/Sidebar.js"></script>
+    <script type="text/javascript" src="Sidebar.js"></script>
      <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
       <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
