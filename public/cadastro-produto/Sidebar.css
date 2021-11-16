@@ -3,8 +3,9 @@
 :root {
     --header-height: 3rem;
     --nav-width: 68px;
-    --first-color: #4723D9;
-    --first-color-light: #AFA5D9;
+    --first-color:  #4a195a;
+    --first-color-light: white ;
+    --minhavariavelindinha:linear-gradient(360deg, #284066, #4a195a);
     --white-color: #F7F6FB;
     --body-font: 'Nunito', sans-serif;
     --normal-font-size: 1rem;
@@ -70,8 +71,8 @@ a {
     left: -30%;
     width: var(--nav-width);
     height: 100vh;
-    background-color: var(--first-color);
-    padding: .5rem 1rem 0 0;
+    background-image: var(--minhavariavelindinha);
+    padding: .5rem 1rem 0 0; 
     transition: .5s;
     z-index: var(--z-fixed)
 }
@@ -81,7 +82,9 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    overflow: hidden
+    overflow: hidden;
+    
+    background-image:var(--minhavariavelindinha)
 }
 
 .nav_logo,
@@ -115,7 +118,7 @@ a {
 }
 
 .nav_link:hover {
-    color: var(--white-color)
+    color: var(--minhavariavelindinha)
 }
 
 .nav_icon {
@@ -178,4 +181,4 @@ a {
 
     .body-pd {
         padding-left: calc(var(--nav-width) + 188px)
-    }
+    }}
