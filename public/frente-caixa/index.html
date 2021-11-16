@@ -1,305 +1,223 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
-    <link href="assets/vendor/fonts/circular-std/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/libs/css/style.css">
-    <link rel="stylesheet" href="assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
-    <link rel="stylesheet" href="assets/vendor/charts/chartist-bundle/chartist.css">
-    <link rel="stylesheet" href="assets/vendor/charts/morris-bundle/morris.css">
-    <link rel="stylesheet" href="assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="assets/vendor/charts/c3charts/c3.css">
-    <link rel="stylesheet" href="assets/vendor/fonts/flag-icon-css/flag-icon.min.css">
+    <!--Side Bar-->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" type="image/png" href="../V/images/Logo final transparente 160 x 160 px Cortada.png" />
+    <link rel="stylesheet" href="../Side Bar/Sidebar.css"">
+    <link rel=" stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+    <!--Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <title>Projeto Cronos - Frente do Caixa</title>
 </head>
 
-<body>
+<body id="body-pd">
 
-    <div class="dashboard-main-wrapper">
-        <div class="dashboard-header">
-            <nav class="navbar navbar-expand-lg bg-white fixed-top">
-                <a class="navbar-brand" href="index.html"><img widght="120" height="60" src="./assets/images/logo.png"
-                        alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse"
-                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse " id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto navbar-right-top">
-                        <li class="nav-item dropdown nav-user">
-                            <a class="nav-link nav-user-img" href="#" id="navbarDropdownMenuLink2"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img
-                                    src="assets/images/avatar-1.jpg" alt="" class="user-avatar-md rounded-circle"></a>
-                            <div class="dropdown-menu dropdown-menu-right nav-user-dropdown"
-                                aria-labelledby="navbarDropdownMenuLink2">
-                                <div class="nav-user-info">
-                                    <h5 class="mb-0 text-white nav-user-name">Lucas Artiz </h5>
-                                </div>
-                                <a class="dropdown-item" href="#"><i class="fas fa-user mr-2"></i>Minha Conta</a>
-                                <a class="dropdown-item" href="#"><i class="fas fa-power-off mr-2"></i>Sair</a>
-                            </div>
-                        </li>
-                    </ul>
+    <header class="header" id="header">
+        <div class="header_toggle"> <i class='bx bx-menu' id="header-toggle"></i> </div>
+        <div class="header_img"> <img src="../Side Bar/avatar-s-1.jpg" alt=""> </div>
+    </header>
+    <div class="l-navbar" id="nav-bar">
+        <nav class="nav">
+            <div> <a href="#" class="nav_logo"> <i><img
+                            src="../Lucão/ARQUIVOS SUPORTE/LOGO DEMODAY/Icone da sidebar.png " width="29px"
+                            alt=""></i><span class="nav_logo-name">CRONOS</span>
+                </a>
+                <div class="nav_list"> <a href="#" class="nav_link active"> <i class="bi bi-wallet2"></i> <span
+                            class="nav_name">Caixa</span> </a> </a> <a href="#" class="nav_link"> <i
+                            class="bi bi-archive"></i> <span class="nav_name">Estoque</span> </a> <a href="#"
+                        class="nav_link"> <i class="bi bi-qr-code"></i> <span class="nav_name">Cadastro</span> </a> <a
+                        href="#" class="nav_link"> <i class="bi bi-calendar-check"></i> <span
+                            class="nav_name">Relatório</span> </a> <a href="#" class="nav_link"> <i
+                            class='bx bx-bar-chart-alt-2 nav_icon'></i> <span class="nav_name">Dashboard</span> </a>
                 </div>
-            </nav>
+            </div> <a href="#" class="nav_link"> <i class='bx bx-log-out nav_icon'></i> <span
+                    class="nav_name">SignOut</span> </a>
+        </nav>
+    </div>
+    <!-- ============================================================== -->
+    <!-- end navbar -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- left sidebar -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- end left sidebar -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- wrapper  -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- pageheader  -->
+    <!-- ============================================================== -->
+    <div class="row">
+        <div class="col-xl-8">
+            <div class="page-header">
+                <h2 class="pageheader-title text-center">Frente do Caixa</h2>
+            </div>
         </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- end pageheader  -->
+    <!-- ============================================================== -->
+    <div class="d-inline-flex bd-highlight">
+        <button type="button" class="CodBar btn btn-primary col-xl-3">Escanear Produto</button>
+        <div class="col-xl-10 offset-1">
+            <div class="card">
+                <div class="card-body p-1 table-responsive border-0">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Código</th>
+                                <th>Nome</th>
+                                <th>Quantidade</th>
+                                <th>Desconto</th>
+                                <th>Preço</th>
+                                <th>Imagem</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>156148918516</td>
+                                <td>Pacote Tang</td>
+                                <td>2</td>
+                                <td>R$4,60</td>
+                                <td>R$0,00</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
 
-        <!-- ============================================================== -->
-        <!-- end navbar -->
-        <!-- ============================================================== -->
-        <!-- ============================================================== -->
-        <!-- left sidebar -->
-        <!-- ============================================================== -->
-        <!-- ============================================================== -->
-        <!-- end left sidebar -->
-        <!-- ============================================================== -->
-        <!-- ============================================================== -->
-        <!-- wrapper  -->
-        <!-- ============================================================== -->
-        <div class="dashboard-wrapper">
-            <div class="dashboard-ecommerce">
-                <div class="container-fluid dashboard-content ">
-                    <!-- ============================================================== -->
-                    <!-- pageheader  -->
-                    <!-- ============================================================== -->
-                    <div class="row">
-                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <div class="page-header">
-                                <h2 class="pageheader-title">Frente do Caixa</h2>
-                                <p class="pageheader-text">Nulla euismod urna eros, sit amet scelerisque torton lectus
-                                    vel mauris facilisis faucibus at enim quis massa lobortis rutrum.</p>
-                                <div class="page-breadcrumb">
-                                    <nav aria-label="breadcrumb">
-                                        <ol class="breadcrumb">
-                                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Painel</a>
-                                            </li>
-                                            <li class="breadcrumb-item active" aria-current="page">Frente do Caixa</li>
-                                        </ol>
-                                    </nav>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ============================================================== -->
-                    <!-- end pageheader  -->
-                    <!-- ============================================================== -->
-                    <div class="ecommerce-widget">
-                        <div class="float-none">
-                            <div class="row">
-
-                                <div class="col-2">
-                                    <div class="card">
-                                        <div class="bg-dark">
-                                            <div class="card-body p-2">
-                                                <h5 class="text-light">Escanear Produto</h5>
-                                                <div class="metric-value d-inline-block">
-                                                    <h1 class="text-light">Câmera</h1>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div id="sparkline-revenue"></div>
-                                    </div>
-                                </div>
-
-                                <div class="float-right">
-                                    <div class="col">
-                                        <div class="card">
-                                            <div class="card-body p-3">
-                                                <div class="table-responsive">
-                                                    <table class="table">
-                                                        <thead class="table">
-                                                            <tr class="border-0">
-                                                                <th class="border-0">Código</th>
-                                                                <th class="border-0">Nome</th>
-                                                                <th class="border-0">Quantidade</th>
-                                                                <th class="border-0">Desconto</th>
-                                                                <th class="border-0">Preço</th>
-                                                                <th class="border-0">Imagem</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td class="border-0">156148918516</td>
-                                                                <td class="border-0">Pacote Tang</td>
-                                                                <td class="border-0">2</td>
-                                                                <td class="border-0">R$4,60</td>
-                                                                <td class="border-0">R$0,00</td>
-                                                                <td class="border-0"></td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="row">
-                            <div class="flex-none">
-                                <div class="card float-left">
-                                    <div class="card-body p-0">
-                                        <div class="table-responsive">
-                                            <table class="table">
-                                                <thead class="table-dark">
-                                                    <tr class="border-0">
-                                                        <th class="text-light border-0">
-                                                            Código</th>
-                                                        <th class="text-light border-0">
-                                                            Quant.</th>
-                                                        <th class="text-light border-0">
-                                                            Nome</th>
-                                                        <th class="text-light border-0">
-                                                            Preço</th>
-                                                        <th class="text-light border-0">
-                                                            Desconto</th>
-                                                        <th class="text-light border-0">
-                                                            Total</th>
-                                                        <th class="text-light border-0">
-                                                            Horário</th>
-                                                        <th class="text-light border-0">
-                                                            Status</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr>
-                                                        <td>156148918516</td>
-                                                        <td>2</td>
-                                                        <td>Pacote Tang </td>
-                                                        <td>R$2,30</td>
-                                                        <td>R$0,00</td>
-                                                        <td>R$4,60</td>
-                                                        <td>18:14 </td>
-                                                        <td><span class="badge-dot badge-danger mr-1"></span>Devolução
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>20151850000</td>
-                                                        <td>1</td>
-                                                        <td>Chá de Sumiço</td>
-                                                        <td>R$10,00</td>
-                                                        <td>R$1,00</td>
-                                                        <td>R$9,00</td>
-                                                        <td>17:37</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>50000202126</td>
-                                                        <td>1</td>
-                                                        <td>Bolacha Trakinas</td>
-                                                        <td>R$5,00</td>
-                                                        <td>R$0,00</td>
-                                                        <td>R$5,00</td>
-                                                        <td>13:44</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>05420202100</td>
-                                                        <td>1</td>
-                                                        <td>Coquinha Gelado</td>
-                                                        <td>R$4,27</td>
-                                                        <td>R$0,27</td>
-                                                        <td>R$4,00</td>
-                                                        <td>12:00</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>05420202100</td>
-                                                        <td>1</td>
-                                                        <td>Fanta Laranja</td>
-                                                        <td>R$4,00</td>
-                                                        <td>R$0,00</td>
-                                                        <td>R$4,00</td>
-                                                        <td>11:58</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>05420202100</td>
-                                                        <td>1</td>
-                                                        <td>Leite</td>
-                                                        <td>R$4,00</td>
-                                                        <td>R$0,00</td>
-                                                        <td>R$4,00</td>
-                                                        <td>11:30</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>05420202100</td>
-                                                        <td>1</td>
-                                                        <td>Critica Social Foda</td>
-                                                        <td>R$4,67</td>
-                                                        <td>R$0,27</td>
-                                                        <td>R$4,20</td>
-                                                        <td>10:34</td>
-                                                        <td><span class="badge-dot badge-success mr-1"></span>Venda
-                                                            Realizada
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td colspan="9"><a href="#"
-                                                                class="btn btn-outline-light float-right">Relatórios</a>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card border-dark col offset-md-1" style="max-width: 18rem;">
-                                <div class="card-header">
-                                    <h1>Total: R$500,90</h1>
-                                </div>
-                                <div class="card-body text-dark">
-                                    <h5 class="card-title">Método de Pagamento</h5>
-                                    <p><button type="button" class="btn btn-info btn-lg">Cartão de Débito</button></p>
-                                    <p><button type="button" class="btn btn-dark btn-lg">Cartão de Crédito</button></p>
-                                    <p><button type="button" class="btn btn-success btn-lg">Dinheiro</button></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <div class="ecommerce-widget">
-                                <div class="float-left">
-                                    <div class="card">
-                                        <div class="bg-dark">
-                                            <div class="card-body p-1">
-                                                <h3 class="text-white">Total: R$500,90</h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <button type="button" class="btn btn-dark btn-lg">Cancelar</button>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
     </div>
+    <div class="d-inline-flex mt-3">
+        <div class="col-xl-9 table-responsive rounded">
+            <table class="table">
+                <thead class="table-dark">
+                    <tr class="border-0 text-light">
+                        <th>Código</th>
+                        <th>Quant.</th>
+                        <th>Nome</th>
+                        <th>Preço</th>
+                        <th>Desconto</th>
+                        <th>Total</th>
+                        <th>Horário</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>156148918516</td>
+                        <td>2</td>
+                        <td>Pacote Tang</td>
+                        <td>R$2,30</td>
+                        <td>R$0,00</td>
+                        <td>R$4,60</td>
+                        <td>18:14 </td>
+                        <td class="text-danger">Devolução</td>
+                    </tr>
+                    <tr>
+                        <td>20151850000</td>
+                        <td>1</td>
+                        <td>Chá de Sumiço</td>
+                        <td>R$10,00</td>
+                        <td>R$1,00</td>
+                        <td>R$9,00</td>
+                        <td>17:37</td>
+                        <td class="text-success">Venda Realizada</td>
+                    </tr>
+                    <tr>
+                        <td>50000202126</td>
+                        <td>1</td>
+                        <td>Bolacha Trakinas</td>
+                        <td>R$5,00</td>
+                        <td>R$0,00</td>
+                        <td>R$5,00</td>
+                        <td>13:44</td>
+                        <td class="text-success">Venda Realizada</td>
+                    </tr>
+                    <tr>
+                        <td>05420202100</td>
+                        <td>1</td>
+                        <td>Coquinha Gelado</td>
+                        <td>R$4,27</td>
+                        <td>R$0,27</td>
+                        <td>R$4,00</td>
+                        <td>12:00</td>
+                        <td class="text-warning">Análise</td>
+                    </tr>
+                    <tr>
+                        <td>05420202100</td>
+                        <td>1</td>
+                        <td>Critica Social Foda</td>
+                        <td>R$4,67</td>
+                        <td>R$0,27</td>
+                        <td>R$4,20</td>
+                        <td>10:34</td>
+                        <td class="text-success">Venda Realizada</td>
+                    </tr>
+                    <tr>
+                        <td>05420202100</td>
+                        <td>1</td>
+                        <td>Fanta Laranja</td>
+                        <td>R$4,00</td>
+                        <td>R$0,00</td>
+                        <td>R$4,00</td>
+                        <td>11:58</td>
+                        <td class="text-success">Venda Realizada</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="card border-dark offset-1 text-center" style="min-width: 16rem;">
+            <div class="card-header">
+                <h3>Total: R$500,90</h3>
+            </div>
+            <div class="card-body text-dark">
+                <h6 class="card-title">Método de Pagamento</h6>
+                <p><button type="button" class="btn btn-info btn-lg">Cartão de Débito</button></p>
+                <p><button type="button" class="btn btn-dark btn-lg">Cartão de Crédito</button></p>
+                <p><button type="button" class="btn btn-success btn-lg">Dinheiro</button></p>
+            </div>
+        </div>
     </div>
+    <div class="d-inline-flex">
+        <div class="col-xl-12 card bg-dark">
+            <div class="card-body p-1 text-center">
+                <h3 class="text-white">Total: R$500,90</h3>
+            </div>
+        </div>
+        <button type="button" class="btn btn-dark btn-lg offset-1">Cancelar</button>
+    </div>
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.6.4.js'></script>
+    <script type="text/javascript" src="../Side Bar/Sidebar.js"></script>
+    <script>
+        $('.CodBar').ready(function () {
+            var barcode = "1";
+            $('.CodBar').keydown(function (e) {
+
+                var code = (e.keyCode ? e.keyCode : e.which);
+                if (code == 13)// Enter key hit
+                {
+                    alert(barcode);
+                }
+                else if (code == 9)// Tab key hit
+                {
+                    alert(barcode);
+                }
+                else {
+                    barcode = barcode + String.fromCharCode(code);
+                }
+            });
+
+        });
+    </script>
 </body>
 
 </html>
