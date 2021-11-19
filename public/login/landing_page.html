@@ -672,18 +672,21 @@ margin-top: 100px;
 <script type="text/javascript" src="../login/js/botaotop.js"></script>
 
 <script>
-const settings = {
-	"async": true,
-	"crossDomain": true,
-	"url": "https://magic-aliexpress1.p.rapidapi.com/api/product/1005002011652590/historic/prices",
-	"method": "GET",
-	"headers": {
-		"x-rapidapi-host": "magic-aliexpress1.p.rapidapi.com",
-		"x-rapidapi-key": "9526709748msheba043f003f9bbdp144855jsn46574b395a7c"
-	}
-};
+const data = null;
 
-$.ajax(settings).done(function (response) {
-	console.log(response);
-});</script>
+const xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+	if (this.readyState === this.DONE) {
+		console.log(this.responseText);
+	}
+});
+
+xhr.open("GET", "https://magic-aliexpress1.p.rapidapi.com/api/v2/categories");
+xhr.setRequestHeader("x-rapidapi-host", "magic-aliexpress1.p.rapidapi.com");
+xhr.setRequestHeader("x-rapidapi-key", "9526709748msheba043f003f9bbdp144855jsn46574b395a7c");
+
+xhr.send(data);
+</script>
 </body></html>
