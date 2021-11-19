@@ -9,18 +9,19 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
     <!--Side Bar-->
-    <link rel="icon" type="image/png" href="../assets/images/demoday-logo.png" />
+    <link rel="icon" type="image/png" href="../assets/images/favicon.png" />
     <link rel="stylesheet" href="../sidebar/sidebar.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
     <style>
-        .codBar {}
-
         body {
             position: relative;
-            min-height: 100vh;
-            width: 100%;
             overflow: auto;
             background-color: #212529 !important;
+        }
+
+        .color {
+            background-image: linear-gradient(360deg, #284066, #64227a);
+            border-radius: 10px;
         }
     </style>
     <title>Projeto Cronos - Frente do Caixa</title>
@@ -56,7 +57,7 @@
                 <button class="btn btn-primary btn-lg" type="button">Escanear Produto</button>
             </div>
             <div class="col-xl-9 col-md-12 col-sm-12 table-responsive">
-                <table class="table bg-white rounded">
+                <table class="table rounded color text-white">
                     <thead>
                         <tr>
                             <th>Código</th>
@@ -70,7 +71,7 @@
                     <tbody>
                         <tr>
                             <td>156148918516</td>
-                            <td>Pacote Tang</td>
+                            <td>Garrafa de Água</td>
                             <td>2</td>
                             <td>R$4,60</td>
                             <td>R$0,00</td>
@@ -85,7 +86,7 @@
             <main class="col-xl-9 col-lg-12 col-md-12 col-sm-12 col-12 table-responsive mt-5">
                 <table class="table table-striped table-dark">
                     <thead class="table-dark">
-                        <tr class="text-light">
+                        <tr class="text-white">
                             <th>Código</th>
                             <th>Quant.</th>
                             <th>Nome</th>
@@ -100,7 +101,7 @@
                         <tr>
                             <td>156148918516</td>
                             <td>2</td>
-                            <td>Pacote Tang</td>
+                            <td>Garrafa de Água</td>
                             <td>R$2,30</td>
                             <td>R$0,00</td>
                             <td>R$4,60</td>
@@ -110,7 +111,7 @@
                         <tr>
                             <td>20151850000</td>
                             <td>1</td>
-                            <td>Chá de Sumiço</td>
+                            <td>Chá de Sachê</td>
                             <td>R$10,00</td>
                             <td>R$1,00</td>
                             <td>R$9,00</td>
@@ -120,7 +121,7 @@
                         <tr>
                             <td>50000202126</td>
                             <td>1</td>
-                            <td>Bolacha Trakinas</td>
+                            <td>Biscoito Recheado</td>
                             <td>R$5,00</td>
                             <td>R$0,00</td>
                             <td>R$5,00</td>
@@ -130,7 +131,7 @@
                         <tr>
                             <td>05420202100</td>
                             <td>1</td>
-                            <td>Coquinha Gelado</td>
+                            <td>Refrigerante de Cola</td>
                             <td>R$4,27</td>
                             <td>R$0,27</td>
                             <td>R$4,00</td>
@@ -140,7 +141,7 @@
                         <tr>
                             <td>04867414400</td>
                             <td>1</td>
-                            <td>Critica Social Foda</td>
+                            <td>Sal Refinado</td>
                             <td>R$4,67</td>
                             <td>R$0,27</td>
                             <td>R$4,20</td>
@@ -150,7 +151,7 @@
                         <tr>
                             <td>05320502187</td>
                             <td>1</td>
-                            <td>Fanta Laranja</td>
+                            <td>Suco de Laranja</td>
                             <td>R$4,00</td>
                             <td>R$0,00</td>
                             <td>R$4,00</td>
@@ -160,34 +161,34 @@
                     </tbody>
                 </table>
             </main>
-            <div class="card border-dark text-center col-xl-2 col-lg-12 col-md-12 col-sm-12 mt-4"
+            <div class="card border-dark text-center text-white col-xl-2 col-lg-12 col-md-12 col-sm-12 mt-4 color"
                 style="min-width: 14rem;">
                 <div class="card-header">
                     <h4>Total: R$9999,99</h4>
                 </div>
-                <div class="card-body text-dark">
+                <div class="card-body text-white align-middle">
                     <h6 class="card-title">Método de Pagamento</h6>
-                    <p><button type="button" class="btn btn-info btn-lg">Cartão de Débito</button>
+                    <p><button type="button" class="btn btn-info col-lg-12">Cartão de Débito</button>
                     </p>
-                    <p><button type="button" class="btn btn-dark btn-lg">Cartão de Crédito</button>
+                    <p><button type="button" class="btn btn-dark col-lg-12">Cartão de Crédito</button>
                     </p>
-                    <p><button type="button" class="btn btn-success btn-lg">Dinheiro</button></p>
+                    <p><button type="button" class="btn btn-success col-lg-12">Dinheiro</button></p>
+                    <p><button type="button" class="btn btn-danger btn-lg col-lg-12">Cancelar</button></p>
                 </div>
             </div>
         </div>
-
-        <div class="text-center row mt-3">
+        <!-- Total e Botão cancelar 
+            <div class="text-center row mt-1">
             <div class="col-lg-6 col-md-12 col-sm-12 card bg-dark">
-                <div class="card-body p-2 text-center">
-                    <h2 class="text-black bg-white rounded">Total: R$500,90</h2>
+                <div class="card-body align-middle text-center color">
+                    <h2 class="text-white rounded">Total: R$500,90</h2>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 mt-1">
                 <button type="button" class="btn btn-danger btn-lg">Cancelar</button>
             </div>
-        </div>
+        </div> -->
         <script type='text/javascript' src='http://code.jquery.com/jquery-1.6.4.js'></script>
-        <script type="text/javascript" src="../sidebar/sidebar.js"></script>
         <script>
             $('.codBar').ready(function () {
                 var barcode = "";
@@ -209,6 +210,7 @@
 
             });
         </script>
+        <script type="text/javascript" src="../sidebar/sidebar.js"></script>
     </div>
 </body>
 

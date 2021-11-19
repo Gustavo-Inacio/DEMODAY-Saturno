@@ -11,6 +11,8 @@
 > Caso não estejam, essa apresentação irá mudar isso.
 > Mas antes de iniciar, gostaríamos de nos apresentar.
 
+Ir para os membros
+
 *[VITOR TEODORO]*
 
 > Eu sou o Vitor Teodoro, também conhecido como Barão
@@ -42,7 +44,7 @@
 >
 
 *[JOAO PEDRO]*
-> Eu também sou João, mas sou o João Pedro!
+> Eu também sou João, também conhecido como Pedrinho!
 >
 
 ----------------------------------------------------------------------------------------
@@ -198,11 +200,15 @@ IR PARA O CADASTRO DE PRODUTOS
 > Porque como todos nós sabemos o comércio pode ter um aumento de aluguel, uma conda d'água, uma luz
 > A plataforma fará essa contabilidade para poder mostrar os lucros.
  
- 
+ *[DENI]*
+
+> Okay mais qual o diferencial dessa plataforma?
+
  *[VITOR]*
 
-> Como citado anteriormente, muitos estabelecimentos acabam perdendo muito lucro 
-> Seja pela pelos produtos vencidos quanto pelo excesso de compras de produtos.
+> Mais o grande diferencial do cronos é a questão do Machine Learning, porque 
+  como citado anteriormente, muitos estabelecimentos acabam perdendo muito
+ lucro por comprarem uma quantidade desnecessária de produtos
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões de vendas futuras
 > O nome dela é Machine Learning, uma tecnologia revolucionária
  
@@ -225,13 +231,13 @@ IR PARA O CADASTRO DE PRODUTOS
  *[GUTO]*
  
 > Usaram o HTML E CSS E JS USARAM PRO FRONT sendo o núcleo do front
-> O MySQL para ter um servidor com relacionamentos, 
-> O Machine Learning foi a parte fundamental do Cronos
+> O Google Charts foi responsável pelos gráficos por ser o mais simples e com mais variedade
+> O Bootstrap pela responsividade e pela simplicidade que facilitou o projeto 
 
  *[PEDRIN]*
-> O Chart.js foi responsável pelos gráficos
-> O Bootstrap pela responsividade 
 > E o PHP foi usado no back-end para fazer todas as peças funcionarem
+> O MySQL para ter um servidor com relacionamentos, 
+> O Python foi utilizado para aplicar o Machine learning utilizando a biblioteca pandas.
 
 
 -----------------------------------------------------------------------------------------
