@@ -184,8 +184,8 @@ IR PARA O CADASTRO DE PRODUTOS
 
 *[PEDRINHO]*
 
-> Bom, já aqui na dashboard podemos visualizar os lucros das vendas
-> Por exemplo, nessa semana  ele lucrou 300 reais.
+> Bom, já aqui nos relatorios podemos visualizar os lucros das vendas
+> Por exemplo, nessa semana  o usuario lucrou  cerca de 2mil e 300 reais.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
