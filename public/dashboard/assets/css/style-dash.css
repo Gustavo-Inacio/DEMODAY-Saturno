@@ -1,0 +1,32 @@
+body {
+  background-color: #212529 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.ficanocentroai {
+  text-align: center !important;
+}
+
+.amanodesceai {
+  margin-top: 35px;
+}
+
+.deixarbrancokk, p {
+    color: white !important;
+}
+
+.grafico2 {
+    margin-top: 3%;
+}
+
+.btn-toolbar{
+  gap: 10px;
+}
+
+.btn-sm{
+color:#fff;
+border: #64227a;
+}
