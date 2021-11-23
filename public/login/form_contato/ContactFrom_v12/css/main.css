@@ -272,7 +272,7 @@ textarea.input100 {
 .input100:focus + .focus-input100 {
   -webkit-animation: anim-shadow 0.5s ease-in-out forwards;
   animation: anim-shadow 0.5s ease-in-out forwards;
-  background: #a26fe6;
+  /* background: #a26fe6; */
 }
 
 @-webkit-keyframes anim-shadow {

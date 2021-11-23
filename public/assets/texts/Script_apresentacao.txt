@@ -212,7 +212,7 @@ IR PARA O CADASTRO DE PRODUTOS
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões de vendas futuras
 > O nome dela é Machine Learning, uma tecnologia revolucionária
  
- *[MALACA]* esses diálogos precisam de ajustes
+ *[MALACA]* 
 
 > Essa tecnologia basicamente é um ramo da inteligência arterial que identifica padrões.
 > Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, 
@@ -220,6 +220,18 @@ IR PARA O CADASTRO DE PRODUTOS
 > O fato é que, ao identificar padrões, ela pode gerar previsões futuras com base neles. 
 > Por isso chama-se machine learning, que traduzindo para o português seria aprendizado de máquinas.
 
+
+ *[DENI]*
+
+> Acho que eu entendi, mais ou menos, o Cronos faz uma previsão de vendas mas como isso é feito?
+
+ *[MALACA]*
+ 
+> 
+> 
+> 
+> 
+> 
 
 -----------------------------------------------------------------------------------------
 
@@ -249,10 +261,9 @@ FUTURO PROJETO
  
  
   *[ALGUEM]*
+  
  > Como ideia futura planejamos expandir a nossa plataforma não só para pequenas, 
  > mas tbm para grandes empresas adicionando novas funções e buscando novas parcerias de investimento?
-
-
 
 
 FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
@@ -266,15 +277,6 @@ FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
  > gostaríamos de fazer alguns agradecimentos
- > O Gabriel, que foi o responsável por sempre nos motivar, ensinar e dar uns puxões de orelhas
- > quando precisou
- > A Dri, que nos ajudou com o Demoday e sempre abriu nossos olhos com ideias incríveis
- > A Martinha, que com tutorias geniais fez a gente chegar até aqui
- > O Wes, que nos ajudou com o pontapé inicial
- > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
- > E a Equipe 5 por fazer dessa experencia a melhor possível.
-(..)
-
 
  *[HELO]*
 > Muito obrigado a atenção de todos espero que vocês tenham gostados, 
@@ -301,6 +303,19 @@ DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
 > Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem dele
 -----------------------------------------------------------------------------------------
+FRASES DESCARTADAS
+
+
+
+ > O Gabriel, que foi o responsável por sempre nos motivar, ensinar e dar uns puxões de orelhas
+ > quando precisou
+ > A Dri, que nos ajudou com o Demoday e sempre abriu nossos olhos com ideias incríveis
+ > A Martinha, que com tutorias geniais fez a gente chegar até aqui
+ > O Wes, que nos ajudou com o pontapé inicial
+ > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
+ > E a Equipe 5 por fazer dessa experencia a melhor possível.
+(..)
+
 
 
 
