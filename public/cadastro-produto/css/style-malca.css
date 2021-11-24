@@ -40,3 +40,13 @@ a {
   border-color: rgba(41, 49, 165, 0.7) !important;
   color: #bd37ee !important;
 }
+
+.bma1 {
+  margin-right: 16%;
+  width: 200px;
+}
+
+.bma2 {
+  margin-left: 16%;
+  width: 200px;
+}
