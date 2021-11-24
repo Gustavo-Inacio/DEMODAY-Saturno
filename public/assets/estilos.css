@@ -9,3 +9,10 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif !important;
     src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
 } 
+.footer{
+    text-align: left;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(9, 202, 228);
+  }
+  
