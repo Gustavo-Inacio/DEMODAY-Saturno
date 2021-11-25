@@ -123,7 +123,7 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 > Eu testei o Cronos, ele realmente é um programa íncrivel e consegue solucionar esses problemas.
 > Essa é a Landing Page que me fez conhecer a plataforma
 
-*[GUSTAVO INACIO] *
+*[GUSTAVO INACIO]*
 
 > Aqui eles mostram o ideal da plataforma, a problematização, qual a solução apresentada
 > Eles tem a plataforma focada pra pequenos negócios que sofrem muito com percas pelos problemas apresentados.
@@ -141,7 +141,7 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 
 *[GUTO]*
 
-> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização da página
+> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização de todas as páginas
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -173,12 +173,14 @@ IR PARA O ESTOQUE
 
 
 ----------------------------------------------------------------------------------------
+IR PARA O CADASTRO DE PRODUTOS
+
 *[GUSTAVO QUEIROZ]*
 
 >, Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
 > Então isso nos leva a tela de cadastros de produtos.
 
-IR PARA O CADASTRO DE PRODUTOS
+
 
 ----------------------------------------------------------------------------------------
 *[HELO]*
@@ -186,6 +188,10 @@ IR PARA O CADASTRO DE PRODUTOS
 > Aqui serão adicionados Nome do produto; Código de Barras e o Lote
 > O preço de compra e venda também são inseridos para que esses dados estejam disponíveis nas abas de dashboards
 
+
+*[DENI]* 
+
+> Pergunta para interligar ao back-end, me ajuda ai lucão ;-;
 ----------------------------------------------------------------------------------------
 
 *[PEDRINHO]*
@@ -196,12 +202,6 @@ IR PARA O CADASTRO DE PRODUTOS
  
 ----------------------------------------------------------------------------------------
 
-*[INACIO]* 
-
-> É verdade, essa parte do dinheiro é muito importante.
-> Então, o Cronos tem uma interface preparada pra essa situação
-> Que é a parte de relatórios
-> Aqui tem um controle de
  
  
  *[DENI]*
@@ -318,7 +318,15 @@ FRASES DESCARTADAS
  > O Wes, que nos ajudou com o pontapé inicial
  > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
  > E a Equipe 5 por fazer dessa experencia a melhor possível.
+
+*[INACIO]* 
+
+> É verdade, essa parte do dinheiro é muito importante.
+> Então, o Cronos tem uma interface preparada pra essa situação
+> Que é a parte de relatórios
+> Aqui tem um controle de
 (..)
+
 
 
 
