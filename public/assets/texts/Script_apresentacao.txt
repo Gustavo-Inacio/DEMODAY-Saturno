@@ -79,7 +79,8 @@ Ir para os membros
 
 > Pois é, galera, uma tonelada de comida é muita coisa!
 > Aproveitando que vocês estão tocando no assunto de comércio,  
-> Vocês sabiam que muitas empresas acabam, por conta de falta de conhecimento sobre mercado?
+> Vocês sabiam que muitas empresas acabam por falta do gerenciamento correto do seu negócio?
+
 
 *[HELOISA]*
 > Imagina se existisse uma plataforma que sanasse problemas desse tipo?
@@ -97,10 +98,9 @@ Ir para os membros
 > O Cronos.
  
  *[JOAO PEDRO]*
-
 > Eu fiquei sabendo que a equipe Saturno fez uma plataforma 
-> com controle de estoque que notifica quando um produto está prestes a vencer 
-> e  ainda faz uma previsão de vendas de acordo com dados armazenados.
+de gerenciamento de pequenos varejos acessível, simples e centralizado
+> Além de realizar uma previsão de vendas de acordo com dados armazenados.
 
 *[DENI]*
 
@@ -136,6 +136,12 @@ Ir para os membros
 
 > Aqui é onde o usúario irá logar.
 
+*[DENI]*
+> Uau, essas páginas estão muito bonitas.
+
+*[GUTO]*
+
+> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização da página
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -149,10 +155,10 @@ Ir para os membros
 
 ----------------------------------------------------------------------------------------
 
-*[DENI]*
+*[PEDRINHO]*
 
 > A partir do momento em que a compra é finalizada, dada como vendida
-> Ele já é automaticamente removido do controle de estoque e dado como vendido 
+> O produto já é automaticamente removido do controle de estoque e dado como vendido 
 
 
 ---------------------------------------------------------------------------------------- 
@@ -184,8 +190,8 @@ IR PARA O CADASTRO DE PRODUTOS
 
 *[PEDRINHO]*
 
-> Bom, já aqui nos relatorios podemos visualizar os lucros das vendas
-> Por exemplo, nessa semana  o usuario lucrou  cerca de 2mil e 300 reais.
+> Bom, já aqui nos relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
+> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
@@ -195,10 +201,8 @@ IR PARA O CADASTRO DE PRODUTOS
 > É verdade, essa parte do dinheiro é muito importante.
 > Então, o Cronos tem uma interface preparada pra essa situação
 > Que é a parte de relatórios
-> Aqui tem um controle de venda com os gastos atuais 
-> Mas também tem a parte para inserir gastos adicionais
-> Porque como todos nós sabemos o comércio pode ter um aumento de aluguel, uma conda d'água, uma luz
-> A plataforma fará essa contabilidade para poder mostrar os lucros.
+> Aqui tem um controle de
+ 
  
  *[DENI]*
 
