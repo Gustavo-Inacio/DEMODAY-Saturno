@@ -231,11 +231,15 @@ IR PARA O CADASTRO DE PRODUTOS
 
  *[MALACA]*
  
+<<<<<<< Updated upstream
 > 
 > 
 > 
 > 
 > 
+=======
+> É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas a
+>>>>>>> Stashed changes
 
 -----------------------------------------------------------------------------------------
 
