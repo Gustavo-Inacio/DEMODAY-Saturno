@@ -344,3 +344,6 @@ No backend usamos ferramentas que possam facilitar a integração como API's,
 
 Machine Learning temos o python, de onde vem os datasets, 
 Usamos as melhores práticas de mercados para o Machine Learning
+
+
+oi galera 
