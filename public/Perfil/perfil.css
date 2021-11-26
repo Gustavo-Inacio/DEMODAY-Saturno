@@ -1,0 +1,51 @@
+#topHelloContainer {
+  background-color: #c8c8c8;
+  padding: 20px 0px;
+}
+
+#topHelloContainer p {
+  color: #383838;
+}
+
+#mainContent {
+  padding: 30px 60px;
+}
+
+#mainContent .label-selectors {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  padding: 0 10px;
+  gap: 5px;
+  border: 1px solid black;
+}
+
+#mainContent #createProfileModalBody {
+  padding: 0 !important;
+}
+
+#mainContent .profile-div-form {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+#mainContent .profile-card {
+  min-height: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=perfil.css.map */
