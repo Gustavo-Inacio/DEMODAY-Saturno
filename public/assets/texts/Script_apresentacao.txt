@@ -125,10 +125,13 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 
 *[GUSTAVO INACIO]*
 
-> Aqui eles mostram o ideal da plataforma, a problematização, qual a solução apresentada
-> Eles tem a plataforma focada pra pequenos negócios que sofrem muito com percas pelos problemas apresentados.
+> Aqui eles mostram o ideal, a problematização e qual a solução apresentada pela plataforma que é 
+focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apresentadas.
 > Muito legal que eles usam o Machine Learning também!
 
+*[HELO]*
+
+>  Nessa landing page, o javascript foi utilizado aqui para aplicar as funcionalidades do site como a animação da cartinha e do botão de voltar para cima 
 ----------------------------------------------------------------------------------------
 5º ATO - APRESENTAÇÃO DO PAINEL 
 
@@ -141,7 +144,9 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 
 *[GUTO]*
 
-> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização de todas as páginas
+> Realmente são, eles utilizaram css, html e bootstrap para o posicionamento, responsividade
+ e a estilização de todas as páginas.
+
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -160,7 +165,19 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 > A partir do momento em que a compra é finalizada, dada como vendida
 > O produto já é automaticamente removido do controle de estoque e dado como vendido 
 
+*[DENI]* 
 
+> E como serão juntadas essas informações ?
+
+
+*[PEDRINHO]* 
+
+> O PHP foi utilizado no back-end para coorelacionar essas funções e o 
+MySQL irá conter os dados relacionando ao PHP no servidor
+
+> Ou seja é como se o MySQL fosse o armário da nossa casa e o PHP é a pessoa que abre este armário
+ e coloca um copo, neste copo eu posso escolher o que irá ter dentro dele. Além de poder
+ pegar o copo e levar a mesa para outras pessoas verem.
 ---------------------------------------------------------------------------------------- 
 
 IR PARA O ESTOQUE 
@@ -170,8 +187,6 @@ IR PARA O ESTOQUE
 > Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
 > Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
 
-
-
 ----------------------------------------------------------------------------------------
 IR PARA O CADASTRO DE PRODUTOS
 
@@ -180,18 +195,12 @@ IR PARA O CADASTRO DE PRODUTOS
 >, Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
 > Então isso nos leva a tela de cadastros de produtos.
 
-
-
 ----------------------------------------------------------------------------------------
 *[HELO]*
 
 > Aqui serão adicionados Nome do produto; Código de Barras e o Lote
 > O preço de compra e venda também são inseridos para que esses dados estejam disponíveis nas abas de dashboards
 
-
-*[DENI]* 
-
-> Pergunta para interligar ao back-end, me ajuda ai lucão ;-;
 ----------------------------------------------------------------------------------------
 
 *[PEDRINHO]*
@@ -200,10 +209,15 @@ IR PARA O CADASTRO DE PRODUTOS
 > Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
+*[LUCÃO]*
+
+> Eu acho muito impressionante esses gráficos, foi utilizado o google charts né?
+
+*[GUTI]*
+
+> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
 ----------------------------------------------------------------------------------------
 
- 
- 
  *[DENI]*
 
 > Okay mais qual o diferencial dessa plataforma?
@@ -231,63 +245,38 @@ IR PARA O CADASTRO DE PRODUTOS
 
  *[MALACA]*
  
-<<<<<<< Updated upstream
-> 
-> 
-> 
-> 
-> 
-=======
-> É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas a
->>>>>>> Stashed changes
-
------------------------------------------------------------------------------------------
-
- *[DENI]*
-
-> Nossa, essa idéia é muito revolucionária, anoz luz a frente do tempo!
-> Mas quais tecnologias foram usadas?
-
- *[GUTO]*
- 
-> Usaram o HTML E CSS E JS USARAM PRO FRONT sendo o núcleo do front
-> O Google Charts foi responsável pelos gráficos por ser o mais simples e com mais variedade
-> O Bootstrap pela responsividade e pela simplicidade que facilitou o projeto 
-
- *[PEDRIN]*
-> E o PHP foi usado no back-end para fazer todas as peças funcionarem
-> O MySQL para ter um servidor com relacionamentos, 
-> O Python foi utilizado para aplicar o Machine learning utilizando a biblioteca pandas.
-
+> É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
 
 -----------------------------------------------------------------------------------------
 FUTURO PROJETO
 
  *[DENI]*
+
+> Nossa, essa idéia é muito revolucionária, anoz luz a frente do tempo!
+ > Mas o que vocês pensam para o futuro do Cronos?
  
- > Que incrivel, mas o que vocês pensam para o futuro do Cronos?
  
- 
-  *[ALGUEM]*
+  *GUTO]*
   
- > Como ideia futura planejamos expandir a nossa plataforma não só para pequenas, 
- > mas tbm para grandes empresas adicionando novas funções e buscando novas parcerias de investimento?
+ > Como ideia de futuro queremos torna-lá acessivel para qualquer pessoa,buscar novas parcerias de investimento, adicionar novas funções 
+ e expandir a nossa plataforma não só para pequenas mas tbm para grandes empresas.
 
 
-FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
+FALAR SOBRE COMO FOI APRENDER NO PROA 
 
  *[HELO]*
  
- > Aprender no PROA foi uma experiencia incrívei, não só na parte de competencias técnicas
+ > Aprender no PROA foi uma experiencia incrívei, não só na parte de competências técnicas
  > Mas também na vivência do dia a dia, com a imersão do mundo da empregabilidade.
  > E com a oportunidade de embarcar nessa viagem, rodeada de jovens e profissionais fantásticos.
  
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
- > gostaríamos de fazer alguns agradecimentos
+ > gostaríamos de dizer obrigado a essas pessoas que nos ajudaram nessa caminhada
+ > cada um com seu ensinamento especial.
 
  *[HELO]*
-> Muito obrigado a atenção de todos espero que vocês tenham gostados, 
+> Muito obrigado a atenção de todos espero que vocês tenham gostado, 
 > estamos sempre abertos a críticas construtivas.
 -----------------------------------------------------------------------------------------
 
@@ -344,6 +333,3 @@ No backend usamos ferramentas que possam facilitar a integração como API's,
 
 Machine Learning temos o python, de onde vem os datasets, 
 Usamos as melhores práticas de mercados para o Machine Learning
-
-
-oi galera 
