@@ -79,7 +79,8 @@ Ir para os membros
 
 > Pois é, galera, uma tonelada de comida é muita coisa!
 > Aproveitando que vocês estão tocando no assunto de comércio,  
-> Vocês sabiam que muitas empresas acabam, por conta de falta de conhecimento sobre mercado?
+> Vocês sabiam que muitas empresas acabam por falta do gerenciamento correto do seu negócio?
+
 
 *[HELOISA]*
 > Imagina se existisse uma plataforma que sanasse problemas desse tipo?
@@ -97,10 +98,9 @@ Ir para os membros
 > O Cronos.
  
  *[JOAO PEDRO]*
-
 > Eu fiquei sabendo que a equipe Saturno fez uma plataforma 
-> com controle de estoque que notifica quando um produto está prestes a vencer 
-> e  ainda faz uma previsão de vendas de acordo com dados armazenados.
+de gerenciamento de pequenos varejos acessível, simples e centralizado
+> Além de realizar uma previsão de vendas de acordo com dados armazenados.
 
 *[DENI]*
 
@@ -123,7 +123,7 @@ Ir para os membros
 > Eu testei o Cronos, ele realmente é um programa íncrivel e consegue solucionar esses problemas.
 > Essa é a Landing Page que me fez conhecer a plataforma
 
-*[GUSTAVO INACIO] *
+*[GUSTAVO INACIO]*
 
 > Aqui eles mostram o ideal da plataforma, a problematização, qual a solução apresentada
 > Eles tem a plataforma focada pra pequenos negócios que sofrem muito com percas pelos problemas apresentados.
@@ -136,6 +136,17 @@ Ir para os membros
 
 > Aqui é onde o usúario irá logar.
 
+*[DENI]*
+> Uau, essas páginas estão muito bonitas.
+
+*[GUTO]*
+
+> Realmente são, eles utilizaram css, html e bootstrap para o posicionamento, responsividade
+ e a estilização de todas as páginas 
+
+*[HELO]*
+
+> E o javascript foi utilizado para aplicar as funcionalidades visuais do site.
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -149,12 +160,24 @@ Ir para os membros
 
 ----------------------------------------------------------------------------------------
 
-*[DENI]*
+*[PEDRINHO]*
 
 > A partir do momento em que a compra é finalizada, dada como vendida
-> Ele já é automaticamente removido do controle de estoque e dado como vendido 
+> O produto já é automaticamente removido do controle de estoque e dado como vendido 
+
+*[DENI]* 
+
+> E como serão juntadas essas informações ?
 
 
+*[PEDRINHO]* 
+
+> O PHP foi utilizado no back-end para coorelacionar essas funções e o 
+MySQL irá conter os dados relacionando ao PHP no servidor
+
+> Ou seja é como se o MySQL fosse o armário da nossa casa e o PHP é a pessoa que abre este armário
+ e coloca um copo, neste copo eu posso escolher o que irá ter dentro dele. Além de poder
+ pegar o copo e levar a mesa para outras pessoas verem.
 ---------------------------------------------------------------------------------------- 
 
 IR PARA O ESTOQUE 
@@ -164,15 +187,13 @@ IR PARA O ESTOQUE
 > Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
 > Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
 
-
-
 ----------------------------------------------------------------------------------------
+IR PARA O CADASTRO DE PRODUTOS
+
 *[GUSTAVO QUEIROZ]*
 
 >, Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
 > Então isso nos leva a tela de cadastros de produtos.
-
-IR PARA O CADASTRO DE PRODUTOS
 
 ----------------------------------------------------------------------------------------
 *[HELO]*
@@ -184,22 +205,19 @@ IR PARA O CADASTRO DE PRODUTOS
 
 *[PEDRINHO]*
 
-> Bom, já aqui nos relatorios podemos visualizar os lucros das vendas
-> Por exemplo, nessa semana  o usuario lucrou  cerca de 2mil e 300 reais.
+> Bom, já aqui nos relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
+> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
+*[LUCÃO]*
+
+> Eu acho muito impressionante esses gráficos, foi utilizado o google charts né?
+
+*[GUTI]*
+
+> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
 ----------------------------------------------------------------------------------------
 
-*[INACIO]* 
-
-> É verdade, essa parte do dinheiro é muito importante.
-> Então, o Cronos tem uma interface preparada pra essa situação
-> Que é a parte de relatórios
-> Aqui tem um controle de venda com os gastos atuais 
-> Mas também tem a parte para inserir gastos adicionais
-> Porque como todos nós sabemos o comércio pode ter um aumento de aluguel, uma conda d'água, uma luz
-> A plataforma fará essa contabilidade para poder mostrar os lucros.
- 
  *[DENI]*
 
 > Okay mais qual o diferencial dessa plataforma?
@@ -227,10 +245,6 @@ IR PARA O CADASTRO DE PRODUTOS
 
  *[MALACA]*
  
-> 
-> 
-> 
-> 
 > 
 
 -----------------------------------------------------------------------------------------
@@ -270,7 +284,7 @@ FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
  *[HELO]*
  
- > Aprender no PROA foi uma experiencia incrívei, não só na parte de competencias técnicas
+ > Aprender no PROA foi uma experiencia incrívei, não só na parte de competências técnicas
  > Mas também na vivência do dia a dia, com a imersão do mundo da empregabilidade.
  > E com a oportunidade de embarcar nessa viagem, rodeada de jovens e profissionais fantásticos.
  
@@ -314,7 +328,15 @@ FRASES DESCARTADAS
  > O Wes, que nos ajudou com o pontapé inicial
  > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
  > E a Equipe 5 por fazer dessa experencia a melhor possível.
+
+*[INACIO]* 
+
+> É verdade, essa parte do dinheiro é muito importante.
+> Então, o Cronos tem uma interface preparada pra essa situação
+> Que é a parte de relatórios
+> Aqui tem um controle de
 (..)
+
 
 
 
