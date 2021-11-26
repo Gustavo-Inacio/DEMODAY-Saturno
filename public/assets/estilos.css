@@ -3,23 +3,19 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif !important;
     src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
     background-color: #212529 !important;
-<<<<<<< HEAD
     }
     .form-group{
         font-size: 15px !important;
         font-family:Verdana, Geneva, Tahoma, sans-serif !important;
         src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
     }
-=======
 }
 
 .trocarfontekkkkk {
     font-family:Verdana, Geneva, Tahoma, sans-serif !important;
     src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
 } 
-<<<<<<< HEAD
->>>>>>> 1acd3180c2877a90774b6a04866c324724599259
-=======
+
 .footer{
     text-align: left;
     padding: 10px;
@@ -27,4 +23,4 @@ body {
     color: rgb(9, 202, 228);
   }
   
->>>>>>> 85be8b56257081e01cadaf62c13e5df07d4070bc
+
