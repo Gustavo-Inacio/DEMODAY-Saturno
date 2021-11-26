@@ -245,7 +245,7 @@ IR PARA O CADASTRO DE PRODUTOS
 
  *[MALACA]*
  
-> 
+> É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
 
 -----------------------------------------------------------------------------------------
 
