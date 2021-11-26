@@ -141,7 +141,12 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 
 *[GUTO]*
 
-> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização de todas as páginas
+> Realmente são, eles utilizaram css, html e bootstrap para o posicionamento, responsividade
+ e a estilização de todas as páginas 
+
+*[HELO]*
+
+> E o javascript foi utilizado para aplicar as funcionalidades visuais do site.
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -160,7 +165,19 @@ de gerenciamento de pequenos varejos acessível, simples e centralizado
 > A partir do momento em que a compra é finalizada, dada como vendida
 > O produto já é automaticamente removido do controle de estoque e dado como vendido 
 
+*[DENI]* 
 
+> E como serão juntadas essas informações ?
+
+
+*[PEDRINHO]* 
+
+> O PHP foi utilizado no back-end para coorelacionar essas funções e o 
+MySQL irá conter os dados relacionando ao PHP no servidor
+
+> Ou seja é como se o MySQL fosse o armário da nossa casa e o PHP é a pessoa que abre este armário
+ e coloca um copo, neste copo eu posso escolher o que irá ter dentro dele. Além de poder
+ pegar o copo e levar a mesa para outras pessoas verem.
 ---------------------------------------------------------------------------------------- 
 
 IR PARA O ESTOQUE 
@@ -170,8 +187,6 @@ IR PARA O ESTOQUE
 > Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
 > Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
 
-
-
 ----------------------------------------------------------------------------------------
 IR PARA O CADASTRO DE PRODUTOS
 
@@ -180,18 +195,12 @@ IR PARA O CADASTRO DE PRODUTOS
 >, Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
 > Então isso nos leva a tela de cadastros de produtos.
 
-
-
 ----------------------------------------------------------------------------------------
 *[HELO]*
 
 > Aqui serão adicionados Nome do produto; Código de Barras e o Lote
 > O preço de compra e venda também são inseridos para que esses dados estejam disponíveis nas abas de dashboards
 
-
-*[DENI]* 
-
-> Pergunta para interligar ao back-end, me ajuda ai lucão ;-;
 ----------------------------------------------------------------------------------------
 
 *[PEDRINHO]*
@@ -200,10 +209,15 @@ IR PARA O CADASTRO DE PRODUTOS
 > Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
+*[LUCÃO]*
+
+> Eu acho muito impressionante esses gráficos, foi utilizado o google charts né?
+
+*[GUTI]*
+
+> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
 ----------------------------------------------------------------------------------------
 
- 
- 
  *[DENI]*
 
 > Okay mais qual o diferencial dessa plataforma?
@@ -231,10 +245,6 @@ IR PARA O CADASTRO DE PRODUTOS
 
  *[MALACA]*
  
-> 
-> 
-> 
-> 
 > 
 
 -----------------------------------------------------------------------------------------
@@ -274,7 +284,7 @@ FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
  *[HELO]*
  
- > Aprender no PROA foi uma experiencia incrívei, não só na parte de competencias técnicas
+ > Aprender no PROA foi uma experiencia incrívei, não só na parte de competências técnicas
  > Mas também na vivência do dia a dia, com a imersão do mundo da empregabilidade.
  > E com a oportunidade de embarcar nessa viagem, rodeada de jovens e profissionais fantásticos.
  
