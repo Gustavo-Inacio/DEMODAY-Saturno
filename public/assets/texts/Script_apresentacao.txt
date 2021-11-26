@@ -11,6 +11,8 @@
 > Caso não estejam, essa apresentação irá mudar isso.
 > Mas antes de iniciar, gostaríamos de nos apresentar.
 
+Ir para os membros
+
 *[VITOR TEODORO]*
 
 > Eu sou o Vitor Teodoro, também conhecido como Barão
@@ -42,7 +44,7 @@
 >
 
 *[JOAO PEDRO]*
-> Eu também sou João, mas sou o João Pedro!
+> Eu também sou João, também conhecido como Pedrinho!
 >
 
 ----------------------------------------------------------------------------------------
@@ -77,7 +79,8 @@
 
 > Pois é, galera, uma tonelada de comida é muita coisa!
 > Aproveitando que vocês estão tocando no assunto de comércio,  
-> Vocês sabiam que muitas empresas acabam por conta de falta de conhecimento sobre mercado?
+> Vocês sabiam que muitas empresas acabam por falta do gerenciamento correto do seu negócio?
+
 
 *[HELOISA]*
 > Imagina se existisse uma plataforma que sanasse problemas desse tipo?
@@ -95,10 +98,9 @@
 > O Cronos.
  
  *[JOAO PEDRO]*
-
 > Eu fiquei sabendo que a equipe Saturno fez uma plataforma 
-> com controle de estoque que notifica quando um produto está prestes a vencer 
-> e  ainda faz uma previsão de vendas de acordo com dados armazenados.
+de gerenciamento de pequenos varejos acessível, simples e centralizado
+> Além de realizar uma previsão de vendas de acordo com dados armazenados.
 
 *[DENI]*
 
@@ -134,6 +136,12 @@
 
 > Aqui é onde o usúario irá logar.
 
+*[DENI]*
+> Uau, essas páginas estão muito bonitas.
+
+*[GUTO]*
+
+> Realmente são, eles utilizaram css, html, javascript e bootstrap para a estilização da página
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -147,10 +155,10 @@
 
 ----------------------------------------------------------------------------------------
 
-*[DENI]*
+*[PEDRINHO]*
 
 > A partir do momento em que a compra é finalizada, dada como vendida
-> Ele já é automaticamente removido do controle de estoque e dado como vendido 
+> O produto já é automaticamente removido do controle de estoque e dado como vendido 
 
 
 ---------------------------------------------------------------------------------------- 
@@ -182,8 +190,8 @@ IR PARA O CADASTRO DE PRODUTOS
 
 *[PEDRINHO]*
 
-> Bom, já aqui na dashboard podemos visualizar os lucros das vendas
-> Por exemplo, nessa semana  ele lucrou 300 reais.
+> Bom, já aqui nos relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
+> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
 > E quem não gosta de ganhar dinheiro, não é mesmo?
  
 ----------------------------------------------------------------------------------------
@@ -193,20 +201,22 @@ IR PARA O CADASTRO DE PRODUTOS
 > É verdade, essa parte do dinheiro é muito importante.
 > Então, o Cronos tem uma interface preparada pra essa situação
 > Que é a parte de relatórios
-> Aqui tem um controle de venda com os gastos atuais 
-> Mas também tem a parte para inserir gastos adicionais
-> Porque como todos nós sabemos o comércio pode ter um aumento de aluguel, uma conda d'água, uma luz
-> A plataforma fará essa contabilidade para poder mostrar os lucros.
+> Aqui tem um controle de
  
  
+ *[DENI]*
+
+> Okay mais qual o diferencial dessa plataforma?
+
  *[VITOR]*
 
-> Como citado anteriormente, muitos estabelecimentos acabam perdendo muito lucro 
-> Seja pela pelos produtos vencidos quanto pelo excesso de compras de produtos.
+> Mais o grande diferencial do cronos é a questão do Machine Learning, porque 
+  como citado anteriormente, muitos estabelecimentos acabam perdendo muito
+ lucro por comprarem uma quantidade desnecessária de produtos
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões de vendas futuras
 > O nome dela é Machine Learning, uma tecnologia revolucionária
  
- *[MALACA]* esses diálogos precisam de ajustes
+ *[MALACA]* 
 
 > Essa tecnologia basicamente é um ramo da inteligência arterial que identifica padrões.
 > Estes padrões podem estar associados ao reconhecimento de uma imagem, como um veículo, 
@@ -214,6 +224,18 @@ IR PARA O CADASTRO DE PRODUTOS
 > O fato é que, ao identificar padrões, ela pode gerar previsões futuras com base neles. 
 > Por isso chama-se machine learning, que traduzindo para o português seria aprendizado de máquinas.
 
+
+ *[DENI]*
+
+> Acho que eu entendi, mais ou menos, o Cronos faz uma previsão de vendas mas como isso é feito?
+
+ *[MALACA]*
+ 
+> 
+> 
+> 
+> 
+> 
 
 -----------------------------------------------------------------------------------------
 
@@ -225,16 +247,28 @@ IR PARA O CADASTRO DE PRODUTOS
  *[GUTO]*
  
 > Usaram o HTML E CSS E JS USARAM PRO FRONT sendo o núcleo do front
-> O MySQL para ter um servidor com relacionamentos, 
-> O Machine Learning foi a parte fundamental do Cronos
+> O Google Charts foi responsável pelos gráficos por ser o mais simples e com mais variedade
+> O Bootstrap pela responsividade e pela simplicidade que facilitou o projeto 
 
  *[PEDRIN]*
-> O Chart.js foi responsável pelos gráficos
-> O Bootstrap pela responsividade 
 > E o PHP foi usado no back-end para fazer todas as peças funcionarem
+> O MySQL para ter um servidor com relacionamentos, 
+> O Python foi utilizado para aplicar o Machine learning utilizando a biblioteca pandas.
 
 
 -----------------------------------------------------------------------------------------
+FUTURO PROJETO
+
+ *[DENI]*
+ 
+ > Que incrivel, mas o que vocês pensam para o futuro do Cronos?
+ 
+ 
+  *[ALGUEM]*
+  
+ > Como ideia futura planejamos expandir a nossa plataforma não só para pequenas, 
+ > mas tbm para grandes empresas adicionando novas funções e buscando novas parcerias de investimento?
+
 
 FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
 
@@ -247,15 +281,6 @@ FALAR SOBRE COMO FOI APRENDER NO PROA E AS TECNOLOGIAS
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
  > gostaríamos de fazer alguns agradecimentos
- > O Gabriel, que foi o responsável por sempre nos motivar, ensinar e dar uns puxões de orelhas
- > quando precisou
- > A Dri, que nos ajudou com o Demoday e sempre abriu nossos olhos com ideias incríveis
- > A Martinha, que com tutorias geniais fez a gente chegar até aqui
- > O Wes, que nos ajudou com o pontapé inicial
- > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
- > E a Equipe 5 por fazer dessa experencia a melhor possível.
-(..)
-
 
  *[HELO]*
 > Muito obrigado a atenção de todos espero que vocês tenham gostados, 
@@ -282,6 +307,19 @@ DIALOGOS DESCARTADOS PARA ENCURTAR O TEMPO:
 > Tem sim, como muitas pessoas não gostam desse estilo de lista, fizemos também a listagem como Grade
 > Onde você consegue ter uma visão geral dos produtos juntamente de uma imagem dele
 -----------------------------------------------------------------------------------------
+FRASES DESCARTADAS
+
+
+
+ > O Gabriel, que foi o responsável por sempre nos motivar, ensinar e dar uns puxões de orelhas
+ > quando precisou
+ > A Dri, que nos ajudou com o Demoday e sempre abriu nossos olhos com ideias incríveis
+ > A Martinha, que com tutorias geniais fez a gente chegar até aqui
+ > O Wes, que nos ajudou com o pontapé inicial
+ > A Rô, a Aurora, a Mari e todos os colaboradores e parceiros do PROA por sempre nos apoiar
+ > E a Equipe 5 por fazer dessa experencia a melhor possível.
+(..)
+
 
 
 

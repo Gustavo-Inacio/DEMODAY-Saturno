@@ -8,8 +8,7 @@ input::-webkit-inner-spin-button {
   margin: 0 !important;
 }
 
-body {
-  background-color: #212529 !important;
+.deixarbrancokk, label {
   color: white !important;
 }
 
@@ -40,4 +39,14 @@ a {
   background: rgba(63, 65, 99, 0.7) !important;
   border-color: rgba(41, 49, 165, 0.7) !important;
   color: #bd37ee !important;
+}
+
+.bma1 {
+  margin-right: 16%;
+  width: 200px;
+}
+
+.bma2 {
+  margin-left: 16%;
+  width: 200px;
 }

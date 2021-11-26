@@ -64,7 +64,7 @@
 
 					<div class="wrap-input100 validate-input" data-validate = "Password is required">
 						<font class="txt_placeholder" style="vertical-align: inherit;"> Informe sua senha</font>
-						<input class="input100" type="text" name="pass" placeholder="Senha...">
+						<input class="input100" type="password" name="pass" placeholder="Senha...">
 						<span class="focus-input100"></span>
 					</div>
 
