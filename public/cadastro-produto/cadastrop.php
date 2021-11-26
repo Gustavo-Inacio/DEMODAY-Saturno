@@ -67,7 +67,11 @@
         </a>
     </nav>
   </div>
-
+  <?php if(isset($_GET['status']) && $_GET['status'] == 0){?>
+						<div class="alert alert-danger" role="alert">
+							Dados incorretos! Tente novamente
+						</div>
+					<?php } ?>
     <div class="container ficanocentroplz">
     <div class="row">
     <main class="col-md-9 ms-sm-auto col-lg-12 px-md-4">
@@ -128,7 +132,7 @@
         
         <div class="ficanocentroai">
         <button class="btn btn-outline-success bma1" type="button"><i class="bi bi-qr-code"></i> QR-Code</button>
-        <button class="btn btn-outline-success" type="button">Cadastrar</button>
+        <button class="btn btn-outline-success" type="submit">Cadastrar</button>
         <button class="btn btn-outline-success bma2" type="button"><i class="bi bi-upc-scan"></i> Código</button>
         </div>
 
