@@ -57,13 +57,13 @@
       color: white !important;
       margin-top: 35px;
     }
-footer {
-  text-align: left;
-  padding: 20px;
-  color: rgb(9, 205, 231) !important;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin-left: 25px;
-}
+    .footer {
+      text-align: left;
+      padding: 8px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: rgb(9, 205, 231) !important;
+      margin-top: 8px;
+    }
     
   </style>
 
@@ -397,8 +397,12 @@ footer {
         </div>
       </div>
       <footer>
-        <p>Equipe saturno - Cronos.
-          Todos os Direitos Reservados - Copyright, 2021.</p>
+        <br>
+        <br>
+        <br>
+      
+        <p>Equipe Saturno - Cronos.
+          Todos os Direitos Reservados -  © Copyright 2021.</p>
       </footer>
 </div>
   </main>
@@ -513,6 +517,32 @@ footer {
       },
     });
   </script>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js%22%3E"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+
+  function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+      ['Year', 'Sales', 'Expenses'],
+      ['2004',  1000,      400],
+      ['2005',  1170,      460],
+      ['2006',  660,       1120],
+      ['2007',  1030,      540]
+    ]);
+
+    var options = {
+      title: 'Company Performance',
+      curveType: 'function',
+      legend: { position: 'bottom' }
+    };
+
+    var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+    chart.draw(data, options);
+  }
+</script>
 
   <script>
     var win = navigator.platform.indexOf('Win') > -1;
