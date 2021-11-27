@@ -39,7 +39,7 @@
                 <span class="nav_logo-name">CRONOS</span>
             </a>
             <div class="nav_list">
-                <a href="../frente-caixa/index.html" class="nav_link">
+                <a href="../frente-caixa/index.php" class="nav_link">
                     <i class="bi bi-wallet2"></i>
                     <span class="nav_name">Caixa</span>
                 </a>
@@ -67,11 +67,8 @@
         </a>
     </nav>
   </div>
-  <?php if(isset($_GET['status']) && $_GET['status'] == 0){?>
-						<div class="alert alert-danger" role="alert">
-							Dados incorretos! Tente novamente
-						</div>
-					<?php } ?>
+  
+				
     <div class="container ficanocentroplz">
     <div class="row">
     <main class="col-md-9 ms-sm-auto col-lg-12 px-md-4">
@@ -79,52 +76,58 @@
           <h1 class="h2 deixarbrancokk">Cadastro de Produtos</h1>
         </div>
 
-        <form>
+        <form  method="post" action="../../logic/cadastro_produto.php">
+
+        <?php if(isset($_GET['status']) && $_GET['status'] == 0){?>
+						<div class="alert alert-danger" role="alert">
+							Dados incorretos! Tente novamente
+						</div>
+            <?php } ?>
         <div class="row">
         <div class="form-group col-sm-11 col-md-6">
           <label for="nameProduct">Nome</label>
-          <input type="text" class="form-control" id="nameProduct">
+          <input name="nomeProduto" type="text" class="form-control" id="nameProduct">
         </div>
 
         <div class="form-group col-sm-12 col-md-6">
             <label for="precovProduct">Preço de venda</label>
-            <input type="text" class="form-control" id="precovProduct">
+            <input name="precoVenda" type="text" class="form-control" id="precovProduct">
         </div>
         </div>
   
         <div class="row">
         <div class="form-group col-sm-12 col-md-6">
           <label for="codProduct">Código de barras</label>
-          <input type="text" class="form-control" id="codProduct">
+          <input name="codBar" type="text" class="form-control" id="codProduct">
         </div>
 
         <div class="form-group col-sm-12 col-md-6">
           <label for="precocProduct">Preço de compra</label>
-          <input type="text" class="form-control" id="precocProduct">
+          <input name="precoCompra" type="text" class="form-control" id="precocProduct">
         </div>
         </div>
   
         <div class="row">
         <div class="form-group col-sm-12 col-md-6">
           <label for="valProduct">Validade</label>
-          <input type="date" class="form-control" id="valProduct">
+          <input name="validade" type="date" class="form-control" id="valProduct">
         </div>
 
         <div class="form-group col-sm-12 col-md-6">
           <label for="imageProduct">Imagem</label>
-          <input type="file" class="form-control" id="imageProduct">
+          <input name="imgProduto" type="file" class="form-control" id="imageProduct">
         </div>
         </div>
   
         <div class="row">
         <div class="form-group col-sm-12 col-md-6">
           <label for="quaProduct">Quantidade</label>
-          <input type="number" class="form-control" id="quaProduct">
+          <input name="quantidade" type="number" class="form-control" id="quaProduct">
         </div>
 
         <div class="form-group col-sm-12 col-md-6">
           <label for="loteProduct">Lote</label>
-          <input type="text" class="form-control" id="loteProduct">
+          <input name="lote" type="text" class="form-control" id="loteProduct">
         </div>
         </div>
        
