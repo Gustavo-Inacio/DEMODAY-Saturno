@@ -22,8 +22,8 @@
     padding: 15px;
     color: rgb(9, 202, 228);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 15px;
-    margin-top: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
   }
 </style>
 
