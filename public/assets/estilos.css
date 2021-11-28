@@ -4,11 +4,11 @@ body {
     src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
     background-color: #212529 !important;
     }
-    .form-group{
-        font-size: 15px !important;
-        font-family:Verdana, Geneva, Tahoma, sans-serif !important;
-        src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
-    }
+
+.form-group{
+    font-size: 15px !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+    src: url('../assets/texts/poppins/Poppins-Medium.ttf') !important;
 }
 
 .trocarfontekkkkk {
@@ -21,6 +21,6 @@ body {
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(9, 202, 228);
-  }
+}
   
 
