@@ -5,20 +5,20 @@ function drawBasic() {
 
       var data = google.visualization.arrayToDataTable([
         ['', 'Produtos Vendidos',],
-        ['Doce', 500],
-        ['Los Angeles, CA', 3792000],
-        ['Chicago, IL', 2695000],
-        ['Houston, TX', 2099000],
-        ['Philadelphia, PA', 1526000]
+        ['Doces', 500],
+        ['Leite', 300],
+        ['Sucos', 200],
+        ['Arroz', 330],
+        ['Feijão', 111]
       ]);
 
       var options = {
         backgroundColor: '#212529',
-        title: 'Produtos Vendidos ',
+        title: 'Total de Vendas',
         chartArea: {width: '50%'},
         hAxis: {
-          title: 'Total Population',
-          minValue: 0,
+          title: 'Quantidade',
+          minValue: 2,
           textStyle:{color: 'white'}
         },
         vAxis: {
