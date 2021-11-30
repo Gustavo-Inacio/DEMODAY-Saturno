@@ -10,7 +10,7 @@ a {
   margin-top: 35px;
 }
 
-.deixarbrancokk, p {
+.deixarbrancokk {
     color: white !important;
 }
 
@@ -22,14 +22,18 @@ a {
   gap: 10px;
 }
 
-.btn-sm{
-color:#fff;
-border: #64227a;
+.corbotao{
+  color:#fff !important;
+  background-image: linear-gradient(360deg, #2f476e, #783d8b) !important;
+  border: #64227a !important;
 }
-.footer{
-    text-align: left;
-    padding: 8px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 20px;
-    color: rgb(9, 202, 228);
-  }
+
+.deixandoigual {
+  width: 192px;
+  height: 29px;
+  border-radius: 0px !important;
+}
+
+input::placeholder {
+  font-size: 15px;
+}

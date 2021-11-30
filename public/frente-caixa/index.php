@@ -70,7 +70,7 @@
                         <i class="bi bi-archive"></i>
                         <span class="nav_name">Estoque</span>
                     </a>
-                    <a href="../cadastro-produto/cadastrop.html" class="nav_link">
+                    <a href="../cadastro-produto/cadastrop.php" class="nav_link">
                         <i class="bi bi-qr-code"></i>
                         <span class="nav_name">Cadastro</span>
                     </a>
