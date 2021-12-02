@@ -162,9 +162,19 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 
 *[PEDRINHO]*
 
-> A partir do momento em que a compra é finalizada, dada como vendida
+> A partir do momento em que a compra é finalizada na frente do caixa e dada como vendida
 > O produto já é automaticamente removido do controle de estoque e dado como vendido 
 
+---------------------------------------------------------------------------------------- 
+
+IR PARA O ESTOQUE 
+
+*[MALACA]*
+
+> Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
+> Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
+
+----------------------------------------------------------------------------------------
 *[DENI]* 
 
 > E como serão juntadas essas informações ?
@@ -178,14 +188,6 @@ MySQL irá conter os dados relacionando ao PHP no servidor
 > Ou seja é como se o MySQL fosse o armário da nossa casa e o PHP é a pessoa que abre este armário
  e coloca um copo, neste copo eu posso escolher o que irá ter dentro dele. Além de poder
  pegar o copo e levar a mesa para outras pessoas verem.
----------------------------------------------------------------------------------------- 
-
-IR PARA O ESTOQUE 
-
-*[MALACA]*
-
-> Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
-> Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
 
 ----------------------------------------------------------------------------------------
 IR PARA O CADASTRO DE PRODUTOS
@@ -202,21 +204,7 @@ IR PARA O CADASTRO DE PRODUTOS
 > O preço de compra e venda também são inseridos para que esses dados estejam disponíveis nas abas de dashboards
 
 ----------------------------------------------------------------------------------------
-
-*[PEDRINHO]*
-
-> Bom, já aqui nos relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
-> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
-> E quem não gosta de ganhar dinheiro, não é mesmo?
- 
-*[LUCÃO]*
-
-> Eu acho muito impressionante esses gráficos, foi utilizado o google charts né?
-
-*[GUTI]*
-
-> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
-----------------------------------------------------------------------------------------
+MACHINE LEARNING 
 
  *[DENI]*
 
@@ -247,7 +235,26 @@ IR PARA O CADASTRO DE PRODUTOS
  
 > É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
 
+----------------------------------------------------------------------------------------
+
+RELATÔRIOS
+
+*[PEDRINHO]*
+
+> E como bônus tem a tela de relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
+> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
+> E quem não gosta de ganhar dinheiro, não é mesmo?
+ 
+*[LUCÃO]*
+
+> Eu acho muito impressionante esses gráficos, foi utilizado o google charts né?
+
+*[GUTI]*
+
+> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
+
 -----------------------------------------------------------------------------------------
+
 FUTURO PROJETO
 
  *[DENI]*
