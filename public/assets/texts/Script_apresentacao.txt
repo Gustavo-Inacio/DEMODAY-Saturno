@@ -194,7 +194,7 @@ IR PARA O CADASTRO DE PRODUTOS
 
 *[GUSTAVO QUEIROZ]*
 
->, Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
+> Mas é claro que para que esses produtos estarem ai, eles precisam ser cadastrados 
 > Então isso nos leva a tela de cadastros de produtos.
 
 ----------------------------------------------------------------------------------------
