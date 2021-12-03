@@ -78,12 +78,13 @@ Ir para os membros
 *[GUSTAVO QUEIROZ]*
 
 > Pois é, galera, uma tonelada de comida é muita coisa!
-> Aproveitando que vocês estão tocando no assunto de comércio,  
-> Vocês sabiam que muitas empresas acabam por falta do gerenciamento correto do seu negócio?
+> Aproveitando que vocês estão tocando no assunto de comércio local,  
+> Vocês sabiam que muitas empresas acabam por falta do gerenciamento correto do seu negócio? 
+> O que acaba ocasionando em desperdício de produtos.
 
 
 *[HELOISA]*
-> Imagina se existisse uma plataforma que sanasse problemas desse tipo?
+> Imagina se existisse um gerenciador de estoque que sanasse problemas desse tipo?
 
 *[JOAO HENRIQUE]*
 
@@ -151,19 +152,18 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 
 *[INACIO]*
 
-> Aqui na frente de caixa ja é uma interface, muito importante né?
-> Porque é o local onde o produto sai do comércio 
-> Ele precisa ser ágil, rápido e fácil de ser entendido
-> Então aqui todas as informações como: Nome, Quantidade, Preço até um desconto adicional
-> Foi pensado pra que tudo fosse muito rápido e dinâmico
+> Aqui na frente de caixa é uma interface, muito importante né?
+> Porque é onde a automatização do Cronos funciona
+> Ele é ágil, rápido e fácil de ser entendido
 > Até mesmo uma leitura de código de barras ou QR Code
 
 ----------------------------------------------------------------------------------------
 
 *[PEDRINHO]*
 
-> A partir do momento em que a compra é finalizada na frente do caixa e dada como vendida
-> O produto já é automaticamente removido do controle de estoque e dado como vendido 
+> A partir do momento em que a compra é dada como vendida na frente de caixa
+> O produto já é automaticamente removido do estoque 
+> gerando um controle mais dinâmico dos produtos para o usuário.
 
 ---------------------------------------------------------------------------------------- 
 
@@ -172,7 +172,7 @@ IR PARA O ESTOQUE
 *[MALACA]*
 
 > Aqui nessa interface a gente pode encontrar as informações mais importantes do produto
-> Como a quantidade que ainda está no estoque, qual a data de vencimento  de cada um e até o Lote do mesmo.
+> Como a quantidade que ainda está no estoque, qual a data de vencimento de cada um e até o Lote do mesmo.
 
 ----------------------------------------------------------------------------------------
 *[DENI]* 
@@ -232,18 +232,37 @@ MACHINE LEARNING
 > Acho que eu entendi, mais ou menos, o Cronos faz uma previsão de vendas mas como isso é feito?
 
  *[MALACA]*
- 
 > É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
 
 ----------------------------------------------------------------------------------------
 
-RELATÔRIOS
+FUTURO PROJETO
 
+ *[DENI]*
+
+> Nossa, essa idéia é muito revolucionária, anoz luz a frente do tempo!
+> Mas o que vocês pensam para o futuro do Cronos?
+ 
+ 
+ *[GUTO]*
+  
+ > Como ideia de futuro queremos torna-lá acessivel para qualquer pessoa,
+ > buscar novas parcerias de investimento, expandir a nossa plataforma não só para pequenas mas tbm para grandes empresas
+ > além de adicionar novas funções para o usuário.
+ 
+  *[DENI]*
+ 
+> Pô, que legal!
+> Mas, Guto, que tipo de funções seriam essas?
+ 
+ -----------------------------------------------------------------------------------------
+ RELATÓRIOS
 *[PEDRINHO]*
 
-> E como bônus tem a tela de relatorios podemos visualizar quantos produtos foram vendidos e o ganho trazido.
-> Por exemplo, nessa semana  o usuario ganhou cerca de 2mil e 300 reais com a venda dos produtos.
-> E quem não gosta de ganhar dinheiro, não é mesmo?
+> Então, Deni
+> Uma função que está prestes a ser adicionada é a de 
+> RELATÓRIOS onde será visualizado a quatidade de produtos vendidos e o ganho obtido.
+> Por exemplo, nessa semana o usuario teria faturado cerca de 2mil e 300 reais com a venda dos produtos.
  
 *[LUCÃO]*
 
@@ -251,36 +270,25 @@ RELATÔRIOS
 
 *[GUTI]*
 
-> Sim, foi a forma mais fácil de aplicar os gráficos e modificar eles.
+> Sim, foi a forma mais eficaz de aplicar os gráficos e altera-los.
 
 -----------------------------------------------------------------------------------------
-
-FUTURO PROJETO
-
- *[DENI]*
-
-> Nossa, essa idéia é muito revolucionária, anoz luz a frente do tempo!
- > Mas o que vocês pensam para o futuro do Cronos?
- 
- 
-  *GUTO]*
-  
- > Como ideia de futuro queremos torna-lá acessivel para qualquer pessoa,buscar novas parcerias de investimento, adicionar novas funções 
- e expandir a nossa plataforma não só para pequenas mas tbm para grandes empresas.
-
-
 FALAR SOBRE COMO FOI APRENDER NO PROA 
 
  *[HELO]*
  
- > Aprender no PROA foi uma experiencia incrívei, não só na parte de competências técnicas
- > Mas também na vivência do dia a dia, com a imersão do mundo da empregabilidade.
- > E com a oportunidade de embarcar nessa viagem, rodeada de jovens e profissionais fantásticos.
+> Aprender no PROA foi uma experiencia incrível, não só pela parte de competências técnicas
+> Mas também pelas novas amizades que compartilham da mesma paixão por tecnologia e programação,
+> Em diversos momentos não foi fácil, enfrentamos várias dificuldades, como por exemplo aprendendo REACT
+> Enfretamos isso juntos, o que gerou em risadas, piadas internas e é claro muito aprendizado 
+> Explicar a emoção de ser um Proano, a um PROANO, 
+> é totalmente desnecessário. 
+> E a quem não é PROANO... É simplesmente impossível!
  
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
- > gostaríamos de dizer obrigado a essas pessoas que nos ajudaram nessa caminhada
- > cada um com seu ensinamento especial.
+ > gostaríamos de dizer obrigado a essas pessoas ajudaram nessa nossa caminhada
+ > cada um com seu ensinamento espacial.
 
  *[HELO]*
 > Muito obrigado a atenção de todos espero que vocês tenham gostado, 
@@ -291,6 +299,17 @@ PROVAVEIS PERGUNTAS
 
 
 -- Por que 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -326,11 +345,6 @@ FRASES DESCARTADAS
 > Que é a parte de relatórios
 > Aqui tem um controle de
 (..)
-
-
-
-
-
 
 No Front End usamos 
 
