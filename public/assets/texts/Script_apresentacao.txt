@@ -132,7 +132,8 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 
 *[HELO]*
 
->  Nessa landing page, o javascript foi utilizado aqui para aplicar as funcionalidades do site como a animação da cartinha e do botão de voltar para cima 
+> Nessa landing page, o javascript foi utilizado aqui para aplicar as funcionalidades do site como a animação da cartinha 
+> e do botão de voltar para cima 
 ----------------------------------------------------------------------------------------
 5º ATO - APRESENTAÇÃO DO PAINEL 
 
@@ -298,7 +299,25 @@ FALAR SOBRE COMO FOI APRENDER NO PROA
 PROVAVEIS PERGUNTAS
 
 
--- Por que 
+-- Por que do nome Saturno?
+R: O planeta Saturno em mitologias nórticas tem o significado de tempo.
+
+-- Por que usaram o Machine Learning?
+R: Porque é o futuro, é o modelo de aprendizados de máquinas.
+
+-- Por que usaram o PHP e não o JAVA?
+R: Já haviamos implementado o sistema em PHP no começo do Cronos, antes de ser abordado em Aula.
+
+-- O Cronos já está on-line?
+R: O Cronos ainda não está ativo, pois temos que fazer todos os ajustes no Machine Learning, o que requer tempo e um grande
+empenhodo grupo, para fazer as análises dos dados da forma mais eficiente possivel ao cliente.
+
+-- Como foi o planejamento e distribuições de funções para o grupo?
+R: Desde o começo do Cronos, usamos o Trello para distribuir as funções mais adequadas para cada membro do SATURNO
+assim tornando o desenvolvimento do projeto mais dinâmico e organizado.
+
+-- Por que escolheram essa paleta de cores?
+R: Usamos como inspiração cores espaciais, sempre mantendo qualidade e profissionalismo ao usuario.
 
 
 
