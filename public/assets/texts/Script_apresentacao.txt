@@ -61,7 +61,7 @@ Ir para os membros
 
 > Bem vindooooos ao Talk In Saturno
 > Vocês sabiam que no Brasil perdemos cerca de 19 bilhões e meio por ANO
-> por conta de Produtos Vencidos?
+ devido a Produtos Vencidos?
 
 *[DENI]*
 
@@ -152,8 +152,8 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
-
-> Aqui na frente de caixa é uma interface, muito importante né?
+>Essa tela da frente de caixa é voltada pra vendas que dará baixa nos produtos 
+e serão automaticamente retirados do estoque
 > Porque é onde a automatização do Cronos funciona
 > Ele é ágil, rápido e fácil de ser entendido
 > Até mesmo uma leitura de código de barras ou QR Code
@@ -233,8 +233,15 @@ MACHINE LEARNING
 > Acho que eu entendi, mais ou menos, o Cronos faz uma previsão de vendas mas como isso é feito?
 
  *[MALACA]*
-> É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
+> Basicamente nosso sistema pega as vendas passadas realizadas na mesma epoca da analise que está sendo feita,
+por exemplo caso a pessoa queira fazer uma previsão do mes de dezembro, nosso sistema ira analisar as vendas
+de dezembro dos anos passados e com base nessa analise irá gerar uma previsão.
+É utilizado a linguagem python para aplicar o Machine Learning com a bibioteca pandas
 
+ *[VITOR]* 
+
+> E nessa tela irá ser aplicado o machine learning, podemos ver
+ a previsão de vendas por categoria, por produtos e a previsão de vendas gerais
 ----------------------------------------------------------------------------------------
 
 FUTURO PROJETO
@@ -258,6 +265,7 @@ FUTURO PROJETO
  
  -----------------------------------------------------------------------------------------
  RELATÓRIOS
+
 *[PEDRINHO]*
 
 > Então, Deni
