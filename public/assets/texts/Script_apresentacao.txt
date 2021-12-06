@@ -209,11 +209,11 @@ MACHINE LEARNING
 
  *[DENI]*
 
-> Okay mais qual o diferencial dessa plataforma?
+> Okay, mas qual o diferencial dessa plataforma?
 
  *[VITOR]*
 
-> Mais o grande diferencial do cronos é a questão do Machine Learning, porque 
+> O grande diferencial do cronos é a questão do Machine Learning, porque 
   como citado anteriormente, muitos estabelecimentos acabam perdendo muito
  lucro por comprarem uma quantidade desnecessária de produtos
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões de vendas futuras
