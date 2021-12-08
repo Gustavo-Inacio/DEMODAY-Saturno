@@ -1,54 +1,54 @@
 input {
-    margin-bottom: 35px !important;
+  margin-bottom: 35px !important;
 }
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
-  -webkit-appearance: none !important;
-  margin: 0 !important;
+-webkit-appearance: none !important;
+margin: 0 !important;
 }
 
 .deixarbrancokk, label {
-  color: white !important;
+color: white !important;
 }
 
 a {
-  text-decoration: none !important;
+text-decoration: none !important;
 }
 
 .btn {
-  padding: 10px 20px !important;
-  font-size: 20px !important;
-  background-color: rgb(105, 12, 192) !important;
-  width: 200px;
+padding: 10px 20px !important;
+font-size: 20px !important;
+background-color: rgb(105, 12, 192) !important;
+width: 200px;
 }
 
 .ficanocentroai {
-  text-align: center !important;
+text-align: center !important;
 }
 
 .amanodesceai {
-  margin-top: 35px;
+margin-top: 35px;
 }
 
-.btn-outline-success {
-  border-color: #4723D9 !important;
-  color: #fff !important;
-  border-radius: 30px !important;
+.btn-outline-dark {
+border-color: rgb(105, 12, 192) !important;
+color: #fff !important;
+border-radius: 30px !important;
 }
 
-.btn-outline-success:hover {
-  background: rgba(63, 65, 99, 0.7) !important;
-  border-color: rgba(41, 49, 165, 0.7) !important;
-  color: #bd37ee !important;
+.btn-outline-dark:hover {
+background: rgba(63, 65, 99, 0.7) !important;
+border-color: rgb(105, 12, 192) !important;
+color: #bd37ee !important;
 }
 
 .bma1 {
-  margin-right: 16%;
-  width: 200px;
+margin-right: 16%;
+width: 200px;
 }
 
 .bma2 {
-  margin-left: 16%;
-  width: 200px;
+margin-left: 16%;
+width: 200px;
 }
