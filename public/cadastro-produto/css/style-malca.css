@@ -19,6 +19,8 @@ a {
 .btn {
   padding: 10px 20px !important;
   font-size: 20px !important;
+  background-color: rgb(105, 12, 192) !important;
+  width: 200px;
 }
 
 .ficanocentroai {
