@@ -183,8 +183,8 @@ IR PARA O ESTOQUE
 
 *[PEDRINHO]* 
 
-> O PHP foi utilizado no back-end para coorelacionar essas funções e o 
-MySQL irá conter os dados relacionando ao PHP no servidor
+> O PHP foi utilizado no back-end para relacionar essas funções e o 
+MySQL irá conter os dados junto ao PHP no servidor
 
 > Ou seja é como se o MySQL fosse o armário da nossa casa e o PHP é a pessoa que abre este armário
  e coloca um copo, neste copo eu posso escolher o que irá ter dentro dele. Além de poder
