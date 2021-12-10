@@ -242,6 +242,7 @@ de dezembro dos anos passados e com base nessa analise irá gerar uma previsão.
 
 > E nessa tela irá ser aplicado o machine learning, podemos ver
  a previsão de vendas por categoria, por produtos e a previsão de vendas gerais
+
 ----------------------------------------------------------------------------------------
 
 FUTURO PROJETO
@@ -282,18 +283,30 @@ FUTURO PROJETO
 > Sim, foi a forma mais eficaz de aplicar os gráficos e altera-los.
 
 -----------------------------------------------------------------------------------------
+
+TECNOLOGIAS USADAS
+
+*[HELO]*
+> E aqui como já citamos, estão todas as tecnologias que foram utilizadas:
+
+
 FALAR SOBRE COMO FOI APRENDER NO PROA 
 
  *[HELO]*
- 
-> Aprender no PROA foi uma experiencia incrível, não só pela parte de competências técnicas
-> Mas também pelas novas amizades que compartilham da mesma paixão por tecnologia e programação,
-> Em diversos momentos não foi fácil, enfrentamos várias dificuldades, como por exemplo aprendendo REACT
-> Enfretamos isso juntos, o que gerou em risadas, piadas internas e é claro muito aprendizado 
-> Explicar a emoção de ser um Proano, a um PROANO, 
-> é totalmente desnecessário. 
-> E a quem não é PROANO... É simplesmente impossível!
- 
+ > No início tivemos dificuldades mais com confiança 
+
+ *[GUTO]*
+ > No início tivemos um
+
+ *[SLA]*
+ > No início tivemos um
+
+ *[HELO]*
+ > No início tivemos um
+
+ *[HELO]*
+ > No início tivemos um
+
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
  > gostaríamos de dizer obrigado a essas pessoas ajudaram nessa nossa caminhada
