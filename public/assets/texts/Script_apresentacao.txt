@@ -149,7 +149,7 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 
 > Realmente são, eles utilizaram css, html e bootstrap para o posicionamento, responsividade
  e a estilização de todas as páginas.
-
+> E vale ressaltar que o light modo também está disponível caso o usuário o prefira.
 ----------------------------------------------------------------------------------------
 
 *[INACIO]*
@@ -271,9 +271,9 @@ FUTURO PROJETO
 *[PEDRINHO]*
 
 > Então, Deni
-> Uma função que está prestes a ser adicionada é a de 
-> RELATÓRIOS onde será visualizado a quatidade de produtos vendidos e o ganho obtido.
-> Por exemplo, nessa semana o usuario teria faturado cerca de 2mil e 300 reais com a venda dos produtos.
+> Essa tela é a de 
+> RELATÓRIOS onde podemos visualizar a quatidade de produtos vendidos e o ganho obtido.
+> Ela já está disponível, porém percebendo as necessidades do mercado, uma nova atualização estará disponível em breve.
  
 *[LUCÃO]*
 
