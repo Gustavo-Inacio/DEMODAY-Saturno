@@ -215,7 +215,7 @@ MACHINE LEARNING
  *[VITOR]*
 
 > O grande diferencial do cronos é a questão do Machine Learning, porque 
-  como citado anteriormente, muitos estabelecimentos acabam perdendo muito
+  como citado anteriormente, muitos estabelecimentos acabam perdendo
  lucro por comprarem uma quantidade desnecessária de produtos
 > Pensando nisso foi aplicado uma nova tecnologia do mercado para fazer previsões de vendas futuras
 > O nome dela é Machine Learning, uma tecnologia revolucionária
@@ -289,11 +289,6 @@ TECNOLOGIAS USADAS
 
 *[HELO]*
 > E aqui como já citamos, estão todas as tecnologias que foram utilizadas:
-
-
-
-
-
 
 *[DENI]*
 > Como vocês se sentiram nessa jornada PROA!!!!!!!!!!!!!!!!!!!!!!!1
