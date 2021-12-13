@@ -31,12 +31,15 @@ function drawLineColors() {
         width: 1050,
         hAxis: {
           textStyle:{color: 'white'},
-          title: 'Semanas'
+          title: 'Período',
+          titleTextStyle: { color: 'white' },
         },
         vAxis: {
-          textStyle:{color: 'white'}
+          textStyle:{color: 'white'},
+          title: 'Quantidade de Vendas',
+          titleTextStyle: { color: 'white' },
         },
-        colors: ['#a52714', '#097138']
+        colors: ['#a52714', '#097138'],
       };
 
       var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
