@@ -5,7 +5,7 @@
 
 *[LUCAS]*
 
-> Bom dia
+> Boa tarde!
 > Sou o Lucas Artiz!
 > Como vocês estão? Espero que bem! animação
 > Caso não estejam, essa apresentação irá mudar isso.
@@ -16,17 +16,14 @@ Ir para os membros
 *[VITOR TEODORO]*
 
 > Eu sou o Vitor Teodoro, também conhecido como Barão
-> O cara da organização de outro mundo.
 
 *[DENI]*
 
 > Eu sou o Denilton Nunes, também conhecido como Deni
-> O Lunatico
 
 *[GUSTAVO INACIO]*
 
 > Eu sou o Gustavo Inácio, também conhecido como Guti
-> O cara que hackeia terminais
 
 *[GUSTAVO QUEIROZ]*
 
@@ -133,8 +130,8 @@ focada pra pequenos negócios que sofrem muito com percas pelas dificuldades apr
 
 *[HELO]*
 
-> Nessa landing page, o javascript foi utilizado aqui para aplicar as funcionalidades do site como a animação da cartinha 
-> e do botão de voltar para cima 
+> Nessa landing page, o javascript foi utilizado para aplicar as funcionalidades do site como a animação da cartinha 
+> e do botão de voltar ao topo 
 ----------------------------------------------------------------------------------------
 5º ATO - APRESENTAÇÃO DO PAINEL 
 
@@ -290,10 +287,11 @@ TECNOLOGIAS USADAS
 *[HELO]*
 > E aqui como já citamos, estão todas as tecnologias que foram utilizadas:
 
-*[DENI]*
-> Como vocês se sentiram nessa jornada PROA!!!!!!!!!!!!!!!!!!!!!!!1
+-----------------------------------------------------------------------------------------
+COMO FOI APRENDER NO PROA
 
-FALAR SOBRE COMO FOI APRENDER NO PROA 
+*[DENI]*
+> Como vocês se sentiram nessa jornada PROA??
 
  *[LUCAS]*
  > No começo eu tive dificuldade e hoje no fim do curso me vejo confiante pra ingressar
@@ -307,6 +305,8 @@ FALAR SOBRE COMO FOI APRENDER NO PROA
  *[MALACA]*
  > Hoje nos sentimos orgulhosos de tudo que aprendemos e contruimos.
  > e agora estamos mais próximos de alcançar os nossos sonhos
+-----------------------------------------------------------------------------------------
+ENCERRAMENTO
 
  *[LUCAO]*
  > Com isso vamos chegando ao fim da nossa apresentação, 
