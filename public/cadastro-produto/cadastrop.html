@@ -17,13 +17,18 @@
     <title>Cadastro de produtos</title>
 </head>
 <style>
-  footer {
+  body {
+    min-height: 100vh !important;
+  }
+
+  .footer {
+    position: absolute !important;
+    bottom: 0 !important;
     text-align: left;
     padding: 15px;
     color: rgb(9, 202, 228);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 50px;
-    margin-top: 20px;
   }
 </style>
 
@@ -137,10 +142,10 @@
       </div>
       </div>
 
-      <footer class="footer navbar-fixed-bottom">
+      <div class="footer">
         <p>Equipe Saturno - Cronos.
-          Todos os Direitos Reservados -  © Copyright 2021.</p>
-      </footer>
+            Todos os Direitos Reservados - © Copyright 2021.</p>
+      </div>
 
       <script type="text/javascript" src="../sidebar/sidebar.js"></script>
 </body>
